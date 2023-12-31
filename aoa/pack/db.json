@@ -1,0 +1,1283 @@
+{
+	"info": {
+		"title": {
+			"en": "SSuRGents Test Server (AOA)"
+		},
+		"banner": {
+			"type": "ServerBanner",
+			"hash": "",
+			"url": ""
+		}
+	},
+	"levels": [
+		{
+			"name": "ssp-hard-03001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "날 보러 와요 (Come See Me)"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tNEW MOON\nTitle:\t\t\t날 보러 와요 (Come See Me)\nDuration:\t1:44.06\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t627\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "77b93f1c3b1ee4c3039b4e3ecb52ff677078f87c",
+				"url": "/sonolus/repository/LevelCover/77b93f1c3b1ee4c3039b4e3ecb52ff677078f87c"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4ae2e5bcca5966a38769f7d8bf1e0073a14b4a9d",
+				"url": "/sonolus/repository/LevelBgm/4ae2e5bcca5966a38769f7d8bf1e0073a14b4a9d"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ff9842931550e04b652e987a40ef283422b275a2",
+				"url": "/sonolus/repository/LevelPreview/ff9842931550e04b652e987a40ef283422b275a2"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "328a9683c9d64aa14b826aec78a8d6024bd46a8d",
+				"url": "/sonolus/repository/LevelData/328a9683c9d64aa14b826aec78a8d6024bd46a8d"
+			}
+		},
+		{
+			"name": "ssp-hard-03002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "ELVIS"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tAngel's Story\nTitle:\t\t\tELVIS\nDuration:\t1:35.11\nBPM:\t\t135\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t690\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a65c3e1603d743272d09e958098a9a23c4c837b6",
+				"url": "/sonolus/repository/LevelCover/a65c3e1603d743272d09e958098a9a23c4c837b6"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "0fdd23500ea194ebc24f6290ab3af05215d6396c",
+				"url": "/sonolus/repository/LevelBgm/0fdd23500ea194ebc24f6290ab3af05215d6396c"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "73790901a4a6e0205ba0057132a5406f6dfed3a2",
+				"url": "/sonolus/repository/LevelPreview/73790901a4a6e0205ba0057132a5406f6dfed3a2"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "7995aaa1fd9a713ae279b43229ef7994418ce3aa",
+				"url": "/sonolus/repository/LevelData/7995aaa1fd9a713ae279b43229ef7994418ce3aa"
+			}
+		},
+		{
+			"name": "ssp-hard-03003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "GET OUT"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tWANNA BE\nTitle:\t\t\tGET OUT\nDuration:\t1:37.23\nBPM:\t\t137\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t627\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7ba669c7e769c767b568167158ef31ed3eaceac5",
+				"url": "/sonolus/repository/LevelCover/7ba669c7e769c767b568167158ef31ed3eaceac5"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "cc0a5b0fc7eb78fa3919afa390bf7ea91d2cd424",
+				"url": "/sonolus/repository/LevelBgm/cc0a5b0fc7eb78fa3919afa390bf7ea91d2cd424"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "bbc4e7f35decb3a721220c061aef27bf26318694",
+				"url": "/sonolus/repository/LevelPreview/bbc4e7f35decb3a721220c061aef27bf26318694"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "e7f85064b702977d5f185875329ab599c9d80afc",
+				"url": "/sonolus/repository/LevelData/e7f85064b702977d5f185875329ab599c9d80afc"
+			}
+		},
+		{
+			"name": "ssp-hard-03004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "MOYA (모야)"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tMOYA\nTitle:\t\t\tMOYA (모야)\nDuration:\t1:28.78\nBPM:\t\t123\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t483\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03004"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "d21c260f7775f67b7455d146052e181d4f4736b4",
+				"url": "/sonolus/repository/LevelCover/d21c260f7775f67b7455d146052e181d4f4736b4"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "dbb1b450af80db5e4aface175a35fd2923279444",
+				"url": "/sonolus/repository/LevelBgm/dbb1b450af80db5e4aface175a35fd2923279444"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4eb53be5ef970b5777908b2cbc15075b59727763",
+				"url": "/sonolus/repository/LevelPreview/4eb53be5ef970b5777908b2cbc15075b59727763"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "20ec079ca0fdd0de1298a615b9ab70b2c9722fd0",
+				"url": "/sonolus/repository/LevelData/20ec079ca0fdd0de1298a615b9ab70b2c9722fd0"
+			}
+		},
+		{
+			"name": "ssp-hard-03005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "흔들려 (Confused)"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tRED MOTION\nTitle:\t\t\t흔들려 (Confused)\nDuration:\t1:37.44\nBPM:\t\t117\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t574\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "dd7e0256a4208a11fe476af10468357c690c63a4",
+				"url": "/sonolus/repository/LevelCover/dd7e0256a4208a11fe476af10468357c690c63a4"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a32e617f22b80f0ba54afa9b0fbf3ff9d074e818",
+				"url": "/sonolus/repository/LevelBgm/a32e617f22b80f0ba54afa9b0fbf3ff9d074e818"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7759f481619dda9e840c0025a95e66645c4c288d",
+				"url": "/sonolus/repository/LevelPreview/7759f481619dda9e840c0025a95e66645c4c288d"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ac762996d7bebf889f4c2e29e9c4f39843eb0b5c",
+				"url": "/sonolus/repository/LevelData/ac762996d7bebf889f4c2e29e9c4f39843eb0b5c"
+			}
+		},
+		{
+			"name": "ssp-hard-03006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "짧은 치마 (Miniskirt)"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tMiniskirt\nTitle:\t\t\t짧은 치마 (Miniskirt)\nDuration:\t1:31.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t510\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03006"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "aa40b482d037845d5a8fd5c20f536ce1743f61cb",
+				"url": "/sonolus/repository/LevelCover/aa40b482d037845d5a8fd5c20f536ce1743f61cb"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e744ab68020598f6d8acbc8449ec69f128cf4f4e",
+				"url": "/sonolus/repository/LevelBgm/e744ab68020598f6d8acbc8449ec69f128cf4f4e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b9d8a74989f88f0fb597ceec1c15f02edcb5fab5",
+				"url": "/sonolus/repository/LevelPreview/b9d8a74989f88f0fb597ceec1c15f02edcb5fab5"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "400672a093633a9dd6c24441568a9638c79960d1",
+				"url": "/sonolus/repository/LevelData/400672a093633a9dd6c24441568a9638c79960d1"
+			}
+		},
+		{
+			"name": "ssp-hard-03007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "단발머리 (Short Hair)"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tShort Hair\nTitle:\t\t\t단발머리 (Short Hair)\nDuration:\t1:39.27\nBPM:\t\t110\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t588\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03007"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "736e76104574e678d905233f5e91eb04b85e1c30",
+				"url": "/sonolus/repository/LevelCover/736e76104574e678d905233f5e91eb04b85e1c30"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "e9dc0ba8224683d147162329bbd560f35b5b1ac2",
+				"url": "/sonolus/repository/LevelBgm/e9dc0ba8224683d147162329bbd560f35b5b1ac2"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f3aa063c98a54ed63024fbde4dfd92738a5016f4",
+				"url": "/sonolus/repository/LevelPreview/f3aa063c98a54ed63024fbde4dfd92738a5016f4"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6bc36d304ba1305ea2df2a8a083190ee057746bb",
+				"url": "/sonolus/repository/LevelData/6bc36d304ba1305ea2df2a8a083190ee057746bb"
+			}
+		},
+		{
+			"name": "ssp-hard-03008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "사뿐사뿐 (Like a Cat)"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tLike A Cat\nTitle:\t\t\t사뿐사뿐 (Like a Cat)\nDuration:\t1:51.60\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t717\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03008"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "af3f34e3eb0273f80d36744db96baf24776b8980",
+				"url": "/sonolus/repository/LevelCover/af3f34e3eb0273f80d36744db96baf24776b8980"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "2ac937e3b611a642951cbd6b7ecc835259acd401",
+				"url": "/sonolus/repository/LevelBgm/2ac937e3b611a642951cbd6b7ecc835259acd401"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "81eb07168ad1e3b4dd9095057ae2c359ab6c3c3a",
+				"url": "/sonolus/repository/LevelPreview/81eb07168ad1e3b4dd9095057ae2c359ab6c3c3a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "5959b2c1a9b4024e79738b33a17bff0395345a12",
+				"url": "/sonolus/repository/LevelData/5959b2c1a9b4024e79738b33a17bff0395345a12"
+			}
+		},
+		{
+			"name": "ssp-hard-03009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "심쿵해 (Heart Attack)"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tHeart Attack\nTitle:\t\t\t심쿵해 (Heart Attack)\nDuration:\t1:34.29\nBPM:\t\t126\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t526\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03009"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "5b061d1e1868a219a613194b9e79daddf6cbb34d",
+				"url": "/sonolus/repository/LevelCover/5b061d1e1868a219a613194b9e79daddf6cbb34d"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "283eea37d848ec0b57729aa4728f8f8ac918c8d4",
+				"url": "/sonolus/repository/LevelBgm/283eea37d848ec0b57729aa4728f8f8ac918c8d4"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8fe2e444e05d1d49965c67d71ca2dd1f63318095",
+				"url": "/sonolus/repository/LevelPreview/8fe2e444e05d1d49965c67d71ca2dd1f63318095"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "4c7ae127080309a91dc16b9537f07b509d3f3f9a",
+				"url": "/sonolus/repository/LevelData/4c7ae127080309a91dc16b9537f07b509d3f3f9a"
+			}
+		},
+		{
+			"name": "ssp-hard-03011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Excuse Me"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tANGEL'S KNOCK\nTitle:\t\t\tExcuse Me\nDuration:\t1:47.42\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t623\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2c604bf852c76aa630f0d2a75d8e258c2da19e2d",
+				"url": "/sonolus/repository/LevelCover/2c604bf852c76aa630f0d2a75d8e258c2da19e2d"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c77fb60db554c7f9c5d7a0b51bc56964678f2218",
+				"url": "/sonolus/repository/LevelBgm/c77fb60db554c7f9c5d7a0b51bc56964678f2218"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "551889c402afcd02ec890bbeec1819ac6f737338",
+				"url": "/sonolus/repository/LevelPreview/551889c402afcd02ec890bbeec1819ac6f737338"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "eea698e24d5b457902d7245c91d78d8d7fed74bb",
+				"url": "/sonolus/repository/LevelData/eea698e24d5b457902d7245c91d78d8d7fed74bb"
+			}
+		},
+		{
+			"name": "ssp-hard-03012",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "빙글뱅글 (Bingle Bangle)"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tBINGLE BANGLE\nTitle:\t\t\t빙글뱅글 (Bingle Bangle)\nDuration:\t1:24.64\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t472\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03012"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "ff79ca3fd124edc1d036dc2d27f414237e4d3731",
+				"url": "/sonolus/repository/LevelCover/ff79ca3fd124edc1d036dc2d27f414237e4d3731"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "aab62c179f9155d64f33737aaa902f7be0474743",
+				"url": "/sonolus/repository/LevelBgm/aab62c179f9155d64f33737aaa902f7be0474743"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "c58ecb5c54bce897c5f142ff41a3c510a0d76d45",
+				"url": "/sonolus/repository/LevelPreview/c58ecb5c54bce897c5f142ff41a3c510a0d76d45"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "beb69934e6d52d04272c41f317236cca56eb9574",
+				"url": "/sonolus/repository/LevelData/beb69934e6d52d04272c41f317236cca56eb9574"
+			}
+		},
+		{
+			"name": "ssp-hard-03013",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "빙빙 (Bing Bing)"
+			},
+			"artists": {
+				"en": "AOA"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA\nAlbum:\t\tANGEL'S KNOCK\nTitle:\t\t\t빙빙 (Bing Bing)\nDuration:\t1:25.72\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t492\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-03011"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "2c604bf852c76aa630f0d2a75d8e258c2da19e2d",
+				"url": "/sonolus/repository/LevelCover/2c604bf852c76aa630f0d2a75d8e258c2da19e2d"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "a522aa18e2efafcdb88210748a77e8c01dab7afc",
+				"url": "/sonolus/repository/LevelBgm/a522aa18e2efafcdb88210748a77e8c01dab7afc"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "0ef9c8fcbc22e1cac55bd6f98fad41274834c3fa",
+				"url": "/sonolus/repository/LevelPreview/0ef9c8fcbc22e1cac55bd6f98fad41274834c3fa"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6667c6ae80642f74c47e5bfc9d83894c20d1358e",
+				"url": "/sonolus/repository/LevelData/6667c6ae80642f74c47e5bfc9d83894c20d1358e"
+			}
+		},
+		{
+			"name": "ssp-hard-10001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "질투 나요 BABY (I’m Jelly BABY)"
+			},
+			"artists": {
+				"en": "AOA CREAM"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tAOA CREAM\nAlbum:\t\t질투 나요 Baby (I'm Jelly Baby)\nTitle:\t\t\t질투 나요 BABY (I’m Jelly BABY)\nDuration:\t1:53.42\nBPM:\t\t164\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t786\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-10001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "a86ab13ab2a4d18e923757ea3a671a14bc2ce53b",
+				"url": "/sonolus/repository/LevelCover/a86ab13ab2a4d18e923757ea3a671a14bc2ce53b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5ca54c0733447f1f0248e49e9a7eef4c4a076b61",
+				"url": "/sonolus/repository/LevelBgm/5ca54c0733447f1f0248e49e9a7eef4c4a076b61"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b0c07d3491d8de2a47f55f1374856b51ccaa9674",
+				"url": "/sonolus/repository/LevelPreview/b0c07d3491d8de2a47f55f1374856b51ccaa9674"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "604961036435e94533c59288822c8a7b3cdd37ca",
+				"url": "/sonolus/repository/LevelData/604961036435e94533c59288822c8a7b3cdd37ca"
+			}
+		}
+	],
+	"skins": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents Skin"
+			},
+			"subtitle": {
+				"en": "Default skin for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "SkinThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/SkinThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "SkinData",
+				"hash": "3e99452986bf9ec5a81142e69920cc11c61223f0",
+				"url": "/sonolus/repository/SkinData/3e99452986bf9ec5a81142e69920cc11c61223f0"
+			},
+			"texture": {
+				"type": "SkinTexture",
+				"hash": "cbd040bc6c6c1774469fffdb15a176ffb8f2fd88",
+				"url": "/sonolus/repository/SkinTexture/cbd040bc6c6c1774469fffdb15a176ffb8f2fd88"
+			}
+		}
+	],
+	"backgrounds": [
+		{
+			"name": "ssp-ingame-03001",
+			"version": 2,
+			"title": {
+				"en": "NEW MOON default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tNEW MOON\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "1b5788b66dd3f9e9322644aa9524c3969bf86240",
+				"url": "/sonolus/repository/BackgroundThumbnail/1b5788b66dd3f9e9322644aa9524c3969bf86240"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "790f3962ee49f7bffbc7879e89f770247d85fdeb",
+				"url": "/sonolus/repository/BackgroundImage/790f3962ee49f7bffbc7879e89f770247d85fdeb"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03002",
+			"version": 2,
+			"title": {
+				"en": "Angel's Story default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tAngel's Story\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "27c2973b9af73d8b28a4e2c3b70cc7ef147c392e",
+				"url": "/sonolus/repository/BackgroundThumbnail/27c2973b9af73d8b28a4e2c3b70cc7ef147c392e"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "3bfbb04906b9f7a76c5960b87f188c72ec22b3f0",
+				"url": "/sonolus/repository/BackgroundImage/3bfbb04906b9f7a76c5960b87f188c72ec22b3f0"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03003",
+			"version": 2,
+			"title": {
+				"en": "WANNA BE default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tWANNA BE\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "a38c73c033acd7d3b1e9e3cadc7e97264d855e8c",
+				"url": "/sonolus/repository/BackgroundThumbnail/a38c73c033acd7d3b1e9e3cadc7e97264d855e8c"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "4e518916f39cd6e04980241da130567420c8adf3",
+				"url": "/sonolus/repository/BackgroundImage/4e518916f39cd6e04980241da130567420c8adf3"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03004",
+			"version": 2,
+			"title": {
+				"en": "MOYA default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tMOYA\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "5707461445d14c5f5e79fcd8242f066bd3f8f9a7",
+				"url": "/sonolus/repository/BackgroundThumbnail/5707461445d14c5f5e79fcd8242f066bd3f8f9a7"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "36ea2ba0da715859669ed82126b93c1123e9bbc4",
+				"url": "/sonolus/repository/BackgroundImage/36ea2ba0da715859669ed82126b93c1123e9bbc4"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03005",
+			"version": 2,
+			"title": {
+				"en": "RED MOTION default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tRED MOTION\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "8a77de031f9bb6c60b3c0e6f74296beeba1f7b69",
+				"url": "/sonolus/repository/BackgroundThumbnail/8a77de031f9bb6c60b3c0e6f74296beeba1f7b69"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "f8340bce2189c09db2514f1e89edb63edd153f9c",
+				"url": "/sonolus/repository/BackgroundImage/f8340bce2189c09db2514f1e89edb63edd153f9c"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03006",
+			"version": 2,
+			"title": {
+				"en": "Miniskirt default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tMiniskirt\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "3e26e6d1159f284fd302e7e41b0937f8159880dc",
+				"url": "/sonolus/repository/BackgroundThumbnail/3e26e6d1159f284fd302e7e41b0937f8159880dc"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "247327bc23909a46ee099051b822decd6a65a310",
+				"url": "/sonolus/repository/BackgroundImage/247327bc23909a46ee099051b822decd6a65a310"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03007",
+			"version": 2,
+			"title": {
+				"en": "Short Hair default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tShort Hair\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "42724e9791f9e89b20809052c01fa20749b03bbb",
+				"url": "/sonolus/repository/BackgroundThumbnail/42724e9791f9e89b20809052c01fa20749b03bbb"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "91e49058d1a310ee0c65f21b4db95015f98aad00",
+				"url": "/sonolus/repository/BackgroundImage/91e49058d1a310ee0c65f21b4db95015f98aad00"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03008",
+			"version": 2,
+			"title": {
+				"en": "Like A Cat default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tLike A Cat\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "493b5f0b49656f320386953070c417200bd4959c",
+				"url": "/sonolus/repository/BackgroundThumbnail/493b5f0b49656f320386953070c417200bd4959c"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "6c1f8c26bbbcdc63e0d9be703c55a44bc66ecdad",
+				"url": "/sonolus/repository/BackgroundImage/6c1f8c26bbbcdc63e0d9be703c55a44bc66ecdad"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03009",
+			"version": 2,
+			"title": {
+				"en": "Heart Attack default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tHeart Attack\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "e07b893b3645d87253ef277720f1a38bdfbd88a5",
+				"url": "/sonolus/repository/BackgroundThumbnail/e07b893b3645d87253ef277720f1a38bdfbd88a5"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "2503c31ff3093398ba85aad4f4e81b1f20c2d6ef",
+				"url": "/sonolus/repository/BackgroundImage/2503c31ff3093398ba85aad4f4e81b1f20c2d6ef"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03011",
+			"version": 2,
+			"title": {
+				"en": "ANGEL'S KNOCK default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tANGEL'S KNOCK\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "02360c66192b32c1c389af2372a5ccca8a06419b",
+				"url": "/sonolus/repository/BackgroundThumbnail/02360c66192b32c1c389af2372a5ccca8a06419b"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "9f3694556419e2c885cec5dbe874cafeacd1412e",
+				"url": "/sonolus/repository/BackgroundImage/9f3694556419e2c885cec5dbe874cafeacd1412e"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-03012",
+			"version": 2,
+			"title": {
+				"en": "BINGLE BANGLE default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tBINGLE BANGLE\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "6d1d59da5f3052dbab788f39baef1e1857d20a5d",
+				"url": "/sonolus/repository/BackgroundThumbnail/6d1d59da5f3052dbab788f39baef1e1857d20a5d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "e23e9cf2bc267226eee7fe14d21202ac968552d7",
+				"url": "/sonolus/repository/BackgroundImage/e23e9cf2bc267226eee7fe14d21202ac968552d7"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-10001",
+			"version": 2,
+			"title": {
+				"en": "질투 나요 Baby (I'm Jelly Baby) default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\t질투 나요 Baby (I'm Jelly Baby)\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "3e92c2dd2122980dd8184cdbf50b2f9667909c0b",
+				"url": "/sonolus/repository/BackgroundThumbnail/3e92c2dd2122980dd8184cdbf50b2f9667909c0b"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "1330cdecaf511d0a1423c04df89d806961ce5026",
+				"url": "/sonolus/repository/BackgroundImage/1330cdecaf511d0a1423c04df89d806961ce5026"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents default"
+			},
+			"subtitle": {
+				"en": "Engine background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundThumbnail/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "269d95012614718b1bb3975b51c56e7f733d63a0",
+				"url": "/sonolus/repository/BackgroundData/269d95012614718b1bb3975b51c56e7f733d63a0"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundImage/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		}
+	],
+	"effects": [
+		{
+			"name": "ssurgents",
+			"version": 4,
+			"title": {
+				"en": "SSuRGents Effect"
+			},
+			"subtitle": {
+				"en": "Default effect for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "EffectThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/EffectThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "EffectData",
+				"hash": "e400379197d80814cce6aa9da79f31f95df525c3",
+				"url": "/sonolus/repository/EffectData/e400379197d80814cce6aa9da79f31f95df525c3"
+			},
+			"audio": {
+				"type": "EffectAudio",
+				"hash": "2f59494f3533b72e0ad882309d2c1abcd8f49399",
+				"url": "/sonolus/repository/EffectAudio/2f59494f3533b72e0ad882309d2c1abcd8f49399"
+			}
+		}
+	],
+	"particles": [
+		{
+			"name": "ssurgents",
+			"version": 1,
+			"title": {
+				"en": "SSuRGents Particles"
+			},
+			"subtitle": {
+				"en": "Default particles for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "ParticleThumbnail",
+				"hash": "6ce72c2ddd4270e01b3806a288442bc87acb43c2",
+				"url": "/sonolus/repository/ParticleThumbnail/6ce72c2ddd4270e01b3806a288442bc87acb43c2"
+			},
+			"data": {
+				"type": "ParticleData",
+				"hash": "14d931d5cf9f210f8744c71662fca46623a4851f",
+				"url": "/sonolus/repository/ParticleData/14d931d5cf9f210f8744c71662fca46623a4851f"
+			},
+			"texture": {
+				"type": "ParticleTexture",
+				"hash": "20289e66283b8e4ae20a842b8cb188f8b59269ea",
+				"url": "/sonolus/repository/ParticleTexture/20289e66283b8e4ae20a842b8cb188f8b59269ea"
+			}
+		}
+	],
+	"engines": [
+		{
+			"name": "ssurgents",
+			"version": 7,
+			"title": {
+				"en": "SSuRGents"
+			},
+			"subtitle": {
+				"en": "Default ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "(Work in progress)"
+			},
+			"skin": "ssurgents",
+			"background": "ssurgents",
+			"effect": "ssurgents",
+			"particle": "ssurgents",
+			"thumbnail": {
+				"type": "EngineThumbnail",
+				"hash": "26e6ab628642d7b9e87de72fb7b940f6eea1a2a3",
+				"url": "/sonolus/repository/EngineThumbnail/26e6ab628642d7b9e87de72fb7b940f6eea1a2a3"
+			},
+			"data": {
+				"type": "EngineData",
+				"hash": "fdd75080e8a35cd44df885d721249dc22a2293cd",
+				"url": "/sonolus/repository/EngineData/fdd75080e8a35cd44df885d721249dc22a2293cd"
+			},
+			"configuration": {
+				"type": "EngineConfiguration",
+				"hash": "51e70081dd1b396404ada7014d06baf4102bf1eb",
+				"url": "/sonolus/repository/EngineConfiguration/51e70081dd1b396404ada7014d06baf4102bf1eb"
+			}
+		}
+	]
+}

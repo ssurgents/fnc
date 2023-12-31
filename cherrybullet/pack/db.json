@@ -1,0 +1,1919 @@
+{
+	"info": {
+		"title": {
+			"en": "SSuRGents Test Server (Cherry Bullet)"
+		},
+		"banner": {
+			"type": "ServerBanner",
+			"hash": "",
+			"url": ""
+		}
+	},
+	"levels": [
+		{
+			"name": "ssp-hard-07001",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "무릎을 탁 치고 (Hands Up)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tHands Up\nTitle:\t\t\t무릎을 탁 치고 (Hands Up)\nDuration:\t1:45.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t668\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c6987af3a94ae76ea49cbee37f153c33be6c3950",
+				"url": "/sonolus/repository/LevelCover/c6987af3a94ae76ea49cbee37f153c33be6c3950"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "19b20a3ee9fea7fb7c61cc3f68cada8cacdc6ff8",
+				"url": "/sonolus/repository/LevelBgm/19b20a3ee9fea7fb7c61cc3f68cada8cacdc6ff8"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "920389e0ade2613cfb2a211b3fe2a491e42da212",
+				"url": "/sonolus/repository/LevelPreview/920389e0ade2613cfb2a211b3fe2a491e42da212"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "ca4d2f2dcb08270dbc072bc76e485493604dc58b",
+				"url": "/sonolus/repository/LevelData/ca4d2f2dcb08270dbc072bc76e485493604dc58b"
+			}
+		},
+		{
+			"name": "ssp-hard-07002",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Q&A"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLet's Play Cherry Bullet\nTitle:\t\t\tQ&A\nDuration:\t1:29.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t514\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "cef6884004fc7644023452add3af0257ebb70c08",
+				"url": "/sonolus/repository/LevelCover/cef6884004fc7644023452add3af0257ebb70c08"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d01d6263e99dd7325e243642a4476cac4251768e",
+				"url": "/sonolus/repository/LevelBgm/d01d6263e99dd7325e243642a4476cac4251768e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "1c13d8ce699235db7a2cdf62f102983a4f10755f",
+				"url": "/sonolus/repository/LevelPreview/1c13d8ce699235db7a2cdf62f102983a4f10755f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "d745633ff6f26a647f4fe9abb473c2be05d96dfd",
+				"url": "/sonolus/repository/LevelData/d745633ff6f26a647f4fe9abb473c2be05d96dfd"
+			}
+		},
+		{
+			"name": "ssp-hard-07003",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "네가 참 좋아 (Really Really)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t네가 참 좋아 (Really Really)\nDuration:\t1:33.46\nBPM:\t\t104\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t550\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "aa3c2639ed1e1678da80e8a2718b9d0e4d0730c7",
+				"url": "/sonolus/repository/LevelCover/aa3c2639ed1e1678da80e8a2718b9d0e4d0730c7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "40109300ca77a8b9115c8d254b52870726c7edaf",
+				"url": "/sonolus/repository/LevelBgm/40109300ca77a8b9115c8d254b52870726c7edaf"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "3f2a94dcacad776fac82c4659289715995fb654f",
+				"url": "/sonolus/repository/LevelPreview/3f2a94dcacad776fac82c4659289715995fb654f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "eefb83bd3a6c4c7cd937e7258eff5da8e76add5d",
+				"url": "/sonolus/repository/LevelData/eefb83bd3a6c4c7cd937e7258eff5da8e76add5d"
+			}
+		},
+		{
+			"name": "ssp-hard-07004",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "눈에 띄네 (Stick Out)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLet's Play Cherry Bullet\nTitle:\t\t\t눈에 띄네 (Stick Out)\nDuration:\t1:22.86\nBPM:\t\t84\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t541\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "cef6884004fc7644023452add3af0257ebb70c08",
+				"url": "/sonolus/repository/LevelCover/cef6884004fc7644023452add3af0257ebb70c08"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "b067e1c5c194d3b92f3a2df4ada2628d4c286714",
+				"url": "/sonolus/repository/LevelBgm/b067e1c5c194d3b92f3a2df4ada2628d4c286714"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "cd8304c98311b6e26c42b82db783f48f0db20f4c",
+				"url": "/sonolus/repository/LevelPreview/cd8304c98311b6e26c42b82db783f48f0db20f4c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "09368202b92a1d4e0eca07efeaa9389cd20603e2",
+				"url": "/sonolus/repository/LevelData/09368202b92a1d4e0eca07efeaa9389cd20603e2"
+			}
+		},
+		{
+			"name": "ssp-hard-07005",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Love So Sweet"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\tLove So Sweet\nDuration:\t1:22.40\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t517\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "229e2f0bd26bdb7d7801e548293d2e2f0c6564ad",
+				"url": "/sonolus/repository/LevelCover/229e2f0bd26bdb7d7801e548293d2e2f0c6564ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d361c4fbfba17c3024405f62bd02ac09bdfaa4bc",
+				"url": "/sonolus/repository/LevelBgm/d361c4fbfba17c3024405f62bd02ac09bdfaa4bc"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "245c6222a4d2267f291ebe65c28ddc0fc0e520e6",
+				"url": "/sonolus/repository/LevelPreview/245c6222a4d2267f291ebe65c28ddc0fc0e520e6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6b1cd224034e9f498be25177f7941b0ae2499b4b",
+				"url": "/sonolus/repository/LevelData/6b1cd224034e9f498be25177f7941b0ae2499b4b"
+			}
+		},
+		{
+			"name": "ssp-hard-07006",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "라팜파 (Follow Me)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t라팜파 (Follow Me)\nDuration:\t1:31.89\nBPM:\t\t111\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t545\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "229e2f0bd26bdb7d7801e548293d2e2f0c6564ad",
+				"url": "/sonolus/repository/LevelCover/229e2f0bd26bdb7d7801e548293d2e2f0c6564ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f39e397f441442f2c9b4fe40a6b09398f8501484",
+				"url": "/sonolus/repository/LevelBgm/f39e397f441442f2c9b4fe40a6b09398f8501484"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8778c6b58a7e069b8720bf54633f4ad678bc3b86",
+				"url": "/sonolus/repository/LevelPreview/8778c6b58a7e069b8720bf54633f4ad678bc3b86"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "07ec605eea718518d1b656b3922c8371a1dab9aa",
+				"url": "/sonolus/repository/LevelData/07ec605eea718518d1b656b3922c8371a1dab9aa"
+			}
+		},
+		{
+			"name": "ssp-hard-07007",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "폼 나게 (Keep Your Head Up)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t폼 나게 (Keep Your Head Up)\nDuration:\t1:19.69\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t445\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "229e2f0bd26bdb7d7801e548293d2e2f0c6564ad",
+				"url": "/sonolus/repository/LevelCover/229e2f0bd26bdb7d7801e548293d2e2f0c6564ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "62b957ab49c81f61dc441ceed7cc5b8ac2fbc275",
+				"url": "/sonolus/repository/LevelBgm/62b957ab49c81f61dc441ceed7cc5b8ac2fbc275"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "6b92408e6880179e93ad21334f8747aed98996d0",
+				"url": "/sonolus/repository/LevelPreview/6b92408e6880179e93ad21334f8747aed98996d0"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "27ccec04163db498856938381a54d99d20d4165e",
+				"url": "/sonolus/repository/LevelData/27ccec04163db498856938381a54d99d20d4165e"
+			}
+		},
+		{
+			"name": "ssp-hard-07008",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "탁구공 (Ping Pong)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t탁구공 (Ping Pong)\nDuration:\t1:31.82\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t601\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "aa3c2639ed1e1678da80e8a2718b9d0e4d0730c7",
+				"url": "/sonolus/repository/LevelCover/aa3c2639ed1e1678da80e8a2718b9d0e4d0730c7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "39f879923e9f69a44137205c18a19db088c63172",
+				"url": "/sonolus/repository/LevelBgm/39f879923e9f69a44137205c18a19db088c63172"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "db4a05f29c0036e86cf3147e8e57436e8cd8405a",
+				"url": "/sonolus/repository/LevelPreview/db4a05f29c0036e86cf3147e8e57436e8cd8405a"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9f78bd32e2ff10626a35ced2dd30762f036a1140",
+				"url": "/sonolus/repository/LevelData/9f78bd32e2ff10626a35ced2dd30762f036a1140"
+			}
+		},
+		{
+			"name": "ssp-hard-07009",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Q&A [Verse 2]"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLet's Play Cherry Bullet\nTitle:\t\t\tQ&A [Verse 2]\nDuration:\t1:13.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t462\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07002"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "cef6884004fc7644023452add3af0257ebb70c08",
+				"url": "/sonolus/repository/LevelCover/cef6884004fc7644023452add3af0257ebb70c08"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d4b413410c8074c376f4c4d26f32f930655e5205",
+				"url": "/sonolus/repository/LevelBgm/d4b413410c8074c376f4c4d26f32f930655e5205"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "8bdc23107446510652722e88fae4b5dbfc12ee80",
+				"url": "/sonolus/repository/LevelPreview/8bdc23107446510652722e88fae4b5dbfc12ee80"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "45b710ea8a781287e4c1f6e438f7698b05da3655",
+				"url": "/sonolus/repository/LevelData/45b710ea8a781287e4c1f6e438f7698b05da3655"
+			}
+		},
+		{
+			"name": "ssp-hard-07010",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "알로하오에 (Aloha Oe)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tAloha Oe\nTitle:\t\t\t알로하오에 (Aloha Oe)\nDuration:\t1:20.32\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t459\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07010"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "51858952df7250868b8f97a1f789752be087c4a9",
+				"url": "/sonolus/repository/LevelCover/51858952df7250868b8f97a1f789752be087c4a9"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "aad9ba2bcffa2fefd2d5398b79e99bd277e39418",
+				"url": "/sonolus/repository/LevelBgm/aad9ba2bcffa2fefd2d5398b79e99bd277e39418"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "ddf052345f0e20991bee493fb1ead2fb68d185d6",
+				"url": "/sonolus/repository/LevelPreview/ddf052345f0e20991bee493fb1ead2fb68d185d6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8e479f02f5d1aac3730dc80acd95baf5e0511f2b",
+				"url": "/sonolus/repository/LevelData/8e479f02f5d1aac3730dc80acd95baf5e0511f2b"
+			}
+		},
+		{
+			"name": "ssp-hard-07011",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "무릎을 탁 치고 (Hands Up) [Verse 2]"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tHands Up\nTitle:\t\t\t무릎을 탁 치고 (Hands Up) [Verse 2]\nDuration:\t1:25.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t485\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07001"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "c6987af3a94ae76ea49cbee37f153c33be6c3950",
+				"url": "/sonolus/repository/LevelCover/c6987af3a94ae76ea49cbee37f153c33be6c3950"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "61ec9b0c2260b25b3ceac5a6778a6f5012521469",
+				"url": "/sonolus/repository/LevelBgm/61ec9b0c2260b25b3ceac5a6778a6f5012521469"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "bd49b42db4700219f62029cf5918fdcd0cc1dabe",
+				"url": "/sonolus/repository/LevelPreview/bd49b42db4700219f62029cf5918fdcd0cc1dabe"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "de90f31db0c212c8517210fafee4375c6c390e3c",
+				"url": "/sonolus/repository/LevelData/de90f31db0c212c8517210fafee4375c6c390e3c"
+			}
+		},
+		{
+			"name": "ssp-hard-07012",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "멋대로 해 (Whatever)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t멋대로 해 (Whatever)\nDuration:\t1:38.50\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t582\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "229e2f0bd26bdb7d7801e548293d2e2f0c6564ad",
+				"url": "/sonolus/repository/LevelCover/229e2f0bd26bdb7d7801e548293d2e2f0c6564ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "364c968616da0d599d58d740f9179912fee6579d",
+				"url": "/sonolus/repository/LevelBgm/364c968616da0d599d58d740f9179912fee6579d"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "92db16316ef00835a26327c82bc90a9935c5b3f6",
+				"url": "/sonolus/repository/LevelPreview/92db16316ef00835a26327c82bc90a9935c5b3f6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8fe07c26d5620196ffd9e8719e9d72171b7a1aa9",
+				"url": "/sonolus/repository/LevelData/8fe07c26d5620196ffd9e8719e9d72171b7a1aa9"
+			}
+		},
+		{
+			"name": "ssp-hard-07013",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "발그레 (Ruddy)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t발그레 (Ruddy)\nDuration:\t1:30.00\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t531\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "aa3c2639ed1e1678da80e8a2718b9d0e4d0730c7",
+				"url": "/sonolus/repository/LevelCover/aa3c2639ed1e1678da80e8a2718b9d0e4d0730c7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "d9e8fd8710d2a48de66ef800bcf5ac16babd3f65",
+				"url": "/sonolus/repository/LevelBgm/d9e8fd8710d2a48de66ef800bcf5ac16babd3f65"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4c9311372fb7203136f1fc7eaa461e0a055cc0ae",
+				"url": "/sonolus/repository/LevelPreview/4c9311372fb7203136f1fc7eaa461e0a055cc0ae"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2df960b818f225a1bbeedd158f95cb7b8983e6b2",
+				"url": "/sonolus/repository/LevelData/2df960b818f225a1bbeedd158f95cb7b8983e6b2"
+			}
+		},
+		{
+			"name": "ssp-hard-07014",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "종소리 (Ting-a-ring-a-ring)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t종소리 (Ting-a-ring-a-ring)\nDuration:\t1:25.90\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t478\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "229e2f0bd26bdb7d7801e548293d2e2f0c6564ad",
+				"url": "/sonolus/repository/LevelCover/229e2f0bd26bdb7d7801e548293d2e2f0c6564ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c39c6bd62c24b64c88746a70b648ea57a48324cd",
+				"url": "/sonolus/repository/LevelBgm/c39c6bd62c24b64c88746a70b648ea57a48324cd"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "9f093ebd61d9a8cdfa16d9aaf26a7eca45134fb4",
+				"url": "/sonolus/repository/LevelPreview/9f093ebd61d9a8cdfa16d9aaf26a7eca45134fb4"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "31b1d416eb252a3ecd6aaadfbdea0bb485e2e56d",
+				"url": "/sonolus/repository/LevelData/31b1d416eb252a3ecd6aaadfbdea0bb485e2e56d"
+			}
+		},
+		{
+			"name": "ssp-hard-07015",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Love In Space"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tLove In Space\nDuration:\t1:36.16\nBPM:\t\t156\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t833\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07015"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7a816f93c4abbe160e9237a13a1f1371d77e981b",
+				"url": "/sonolus/repository/LevelCover/7a816f93c4abbe160e9237a13a1f1371d77e981b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "75aa68b8b33ba9ae97149312361361bf6184f489",
+				"url": "/sonolus/repository/LevelBgm/75aa68b8b33ba9ae97149312361361bf6184f489"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "cc604d1ac13c95dd6e67697207a2d03c89920d22",
+				"url": "/sonolus/repository/LevelPreview/cc604d1ac13c95dd6e67697207a2d03c89920d22"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8d191234190535db9ec85a749fc48c2aae0b5733",
+				"url": "/sonolus/repository/LevelData/8d191234190535db9ec85a749fc48c2aae0b5733"
+			}
+		},
+		{
+			"name": "ssp-hard-07016",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Love In Space [Verse 2]"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tLove In Space [Verse 2]\nDuration:\t1:13.08\nBPM:\t\t156\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t572\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07015"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7a816f93c4abbe160e9237a13a1f1371d77e981b",
+				"url": "/sonolus/repository/LevelCover/7a816f93c4abbe160e9237a13a1f1371d77e981b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "af7cfb4651c7d1e7452dc06939cd45512748f614",
+				"url": "/sonolus/repository/LevelBgm/af7cfb4651c7d1e7452dc06939cd45512748f614"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "4c6ba4fc78b6a67dbec991091d6537d14d688ba6",
+				"url": "/sonolus/repository/LevelPreview/4c6ba4fc78b6a67dbec991091d6537d14d688ba6"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1736831aa358a9cc4628049716cdd8b79c5971bc",
+				"url": "/sonolus/repository/LevelData/1736831aa358a9cc4628049716cdd8b79c5971bc"
+			}
+		},
+		{
+			"name": "ssp-hard-07017",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Broken"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tBroken\nDuration:\t1:35.43\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t510\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07015"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7a816f93c4abbe160e9237a13a1f1371d77e981b",
+				"url": "/sonolus/repository/LevelCover/7a816f93c4abbe160e9237a13a1f1371d77e981b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "f442e09d1026f76f36986203a597c84ac31eab8b",
+				"url": "/sonolus/repository/LevelBgm/f442e09d1026f76f36986203a597c84ac31eab8b"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "7c71d93bf2a622d831d6236e485f59242f527bb8",
+				"url": "/sonolus/repository/LevelPreview/7c71d93bf2a622d831d6236e485f59242f527bb8"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "8e013151e766d031a6da2530c835cbe3fb2529b3",
+				"url": "/sonolus/repository/LevelData/8e013151e766d031a6da2530c835cbe3fb2529b3"
+			}
+		},
+		{
+			"name": "ssp-hard-07018",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "네가 참 좋아 (Really Really) [Verse 2]"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t네가 참 좋아 (Really Really) [Verse 2]\nDuration:\t1:17.31\nBPM:\t\t104\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t490\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07003"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "aa3c2639ed1e1678da80e8a2718b9d0e4d0730c7",
+				"url": "/sonolus/repository/LevelCover/aa3c2639ed1e1678da80e8a2718b9d0e4d0730c7"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "5cbc482ded0d6d301ca89b90e7ea2c617aab7162",
+				"url": "/sonolus/repository/LevelBgm/5cbc482ded0d6d301ca89b90e7ea2c617aab7162"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "a4c4147a599bf0c50a9b4dc2dd50a8ae7a59cb7f",
+				"url": "/sonolus/repository/LevelPreview/a4c4147a599bf0c50a9b4dc2dd50a8ae7a59cb7f"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1ddb3398f662fd355c6abe01aff8e8c677a98e83",
+				"url": "/sonolus/repository/LevelData/1ddb3398f662fd355c6abe01aff8e8c677a98e83"
+			}
+		},
+		{
+			"name": "ssp-hard-07019",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "My Boo"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tMy Boo\nDuration:\t1:24.64\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t512\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07015"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7a816f93c4abbe160e9237a13a1f1371d77e981b",
+				"url": "/sonolus/repository/LevelCover/7a816f93c4abbe160e9237a13a1f1371d77e981b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c4869e3dfa97b90889013de44c9a2a403c5fa7e4",
+				"url": "/sonolus/repository/LevelBgm/c4869e3dfa97b90889013de44c9a2a403c5fa7e4"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "eaddfc2bbd164da50ae4bafbaaee8875adc12aab",
+				"url": "/sonolus/repository/LevelPreview/eaddfc2bbd164da50ae4bafbaaee8875adc12aab"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "de036b70eb4a4b5208f2e28dd2d17dfbc846f67c",
+				"url": "/sonolus/repository/LevelData/de036b70eb4a4b5208f2e28dd2d17dfbc846f67c"
+			}
+		},
+		{
+			"name": "ssp-hard-07020",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "닿을까 말까 (KKa KKa)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\t닿을까 말까 (KKa KKa)\nDuration:\t1:35.08\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t661\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07015"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7a816f93c4abbe160e9237a13a1f1371d77e981b",
+				"url": "/sonolus/repository/LevelCover/7a816f93c4abbe160e9237a13a1f1371d77e981b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "2e7c20d70d947d6a6c896b4535db8dda3cac45cc",
+				"url": "/sonolus/repository/LevelBgm/2e7c20d70d947d6a6c896b4535db8dda3cac45cc"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "eb2e64a569998f0cefaaebf0631367cfffb66d52",
+				"url": "/sonolus/repository/LevelPreview/eb2e64a569998f0cefaaebf0631367cfffb66d52"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "2d1bef7964cd7f669e7851011a7adcbc147c900e",
+				"url": "/sonolus/repository/LevelData/2d1bef7964cd7f669e7851011a7adcbc147c900e"
+			}
+		},
+		{
+			"name": "ssp-hard-07021",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Broken [Verse 2]"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tBroken [Verse 2]\nDuration:\t1:29.77\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t504\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07015"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7a816f93c4abbe160e9237a13a1f1371d77e981b",
+				"url": "/sonolus/repository/LevelCover/7a816f93c4abbe160e9237a13a1f1371d77e981b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "59f7150da8616bdaa77aaa7ab5ed563b375f8b42",
+				"url": "/sonolus/repository/LevelBgm/59f7150da8616bdaa77aaa7ab5ed563b375f8b42"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f48abc1dc00e7c39f1c75d1193c6fef09dbf91ca",
+				"url": "/sonolus/repository/LevelPreview/f48abc1dc00e7c39f1c75d1193c6fef09dbf91ca"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6d8e1e1a78d7cc7c6513ea27b3e376b930600417",
+				"url": "/sonolus/repository/LevelData/6d8e1e1a78d7cc7c6513ea27b3e376b930600417"
+			}
+		},
+		{
+			"name": "ssp-hard-07022",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "닿을까 말까 (KKa KKa) [Verse 2]"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\t닿을까 말까 (KKa KKa) [Verse 2]\nDuration:\t1:29.54\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t604\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07015"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7a816f93c4abbe160e9237a13a1f1371d77e981b",
+				"url": "/sonolus/repository/LevelCover/7a816f93c4abbe160e9237a13a1f1371d77e981b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "6c5df904b371989da9a27b058f75891673f7ea9e",
+				"url": "/sonolus/repository/LevelBgm/6c5df904b371989da9a27b058f75891673f7ea9e"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "f5d697f1d79d316b93b4ad0c76d5066acd04f8dd",
+				"url": "/sonolus/repository/LevelPreview/f5d697f1d79d316b93b4ad0c76d5066acd04f8dd"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9a8baf5cdeef64cd3d066131e89bd17b81f911ef",
+				"url": "/sonolus/repository/LevelData/9a8baf5cdeef64cd3d066131e89bd17b81f911ef"
+			}
+		},
+		{
+			"name": "ssp-hard-07023",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "My Boo [Verse 2]"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tMy Boo [Verse 2]\nDuration:\t1:24.64\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t569\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07015"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7a816f93c4abbe160e9237a13a1f1371d77e981b",
+				"url": "/sonolus/repository/LevelCover/7a816f93c4abbe160e9237a13a1f1371d77e981b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "8dbffd6e4550f55e1b157f4de306576c68d75858",
+				"url": "/sonolus/repository/LevelBgm/8dbffd6e4550f55e1b157f4de306576c68d75858"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "582b3bb9175949cf9a7bdf9e708ec377f3d34502",
+				"url": "/sonolus/repository/LevelPreview/582b3bb9175949cf9a7bdf9e708ec377f3d34502"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "6099f5182515d14918e1b18ecedbb978986e47da",
+				"url": "/sonolus/repository/LevelData/6099f5182515d14918e1b18ecedbb978986e47da"
+			}
+		},
+		{
+			"name": "ssp-hard-07024",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Love In Space [Full]"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tLove In Space [Full]\nDuration:\t3:40.77\nBPM:\t\t156\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t1590\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07015"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "7a816f93c4abbe160e9237a13a1f1371d77e981b",
+				"url": "/sonolus/repository/LevelCover/7a816f93c4abbe160e9237a13a1f1371d77e981b"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "1936a1fe8a2fc3b658357b6b6cc036df66c5cfda",
+				"url": "/sonolus/repository/LevelBgm/1936a1fe8a2fc3b658357b6b6cc036df66c5cfda"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "2c274fc1ba7d67432aaab80925fcbb10c39e248c",
+				"url": "/sonolus/repository/LevelPreview/2c274fc1ba7d67432aaab80925fcbb10c39e248c"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "0969b5c7af895796da2630a6e90fcaefe2a6fadd",
+				"url": "/sonolus/repository/LevelData/0969b5c7af895796da2630a6e90fcaefe2a6fadd"
+			}
+		},
+		{
+			"name": "ssp-hard-07025",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "겨울 별 (A Winter Star)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\t겨울 별 (A Winter Star)\nDuration:\t1:37.94\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t373\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07025"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "47f142956cfba004542d8e46db8ede51993741f2",
+				"url": "/sonolus/repository/LevelCover/47f142956cfba004542d8e46db8ede51993741f2"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "bc56b2cd62496c1a1c7ecfef6e917cf5d90a8c32",
+				"url": "/sonolus/repository/LevelBgm/bc56b2cd62496c1a1c7ecfef6e917cf5d90a8c32"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "44667ff53d3ab7325184eedb8fe9933dc9b4ae14",
+				"url": "/sonolus/repository/LevelPreview/44667ff53d3ab7325184eedb8fe9933dc9b4ae14"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "a1d8553faf93ed1c13223e091d30b13ca2f0f14a",
+				"url": "/sonolus/repository/LevelData/a1d8553faf93ed1c13223e091d30b13ca2f0f14a"
+			}
+		},
+		{
+			"name": "ssp-hard-07026",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Love So Sweet [Verse 2]"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\tLove So Sweet [Verse 2]\nDuration:\t1:28.80\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t605\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07005"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "229e2f0bd26bdb7d7801e548293d2e2f0c6564ad",
+				"url": "/sonolus/repository/LevelCover/229e2f0bd26bdb7d7801e548293d2e2f0c6564ad"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "15bed25835cabd978c7678b633b5ebba4e69f6e6",
+				"url": "/sonolus/repository/LevelBgm/15bed25835cabd978c7678b633b5ebba4e69f6e6"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "03f11276f2112475464101e1f0f86794d4c41d40",
+				"url": "/sonolus/repository/LevelPreview/03f11276f2112475464101e1f0f86794d4c41d40"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "9a59f98c93751c402dc78259ceda6a30bf6cbe62",
+				"url": "/sonolus/repository/LevelData/9a59f98c93751c402dc78259ceda6a30bf6cbe62"
+			}
+		},
+		{
+			"name": "ssp-hard-07027",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "P.O.W! (Play On The World)"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tP.O.W! (Play On The World)\nDuration:\t1:40.31\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t578\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07025"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "47f142956cfba004542d8e46db8ede51993741f2",
+				"url": "/sonolus/repository/LevelCover/47f142956cfba004542d8e46db8ede51993741f2"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "2c1c2926a56e42a36d346642b448c020cb83f4cd",
+				"url": "/sonolus/repository/LevelBgm/2c1c2926a56e42a36d346642b448c020cb83f4cd"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "94ccad4cbc2cf7e33ac6842b949856ab22d77762",
+				"url": "/sonolus/repository/LevelPreview/94ccad4cbc2cf7e33ac6842b949856ab22d77762"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "c7dc9772ae9a5e00620d6233fe4e657298eacf90",
+				"url": "/sonolus/repository/LevelData/c7dc9772ae9a5e00620d6233fe4e657298eacf90"
+			}
+		},
+		{
+			"name": "ssp-hard-07028",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Whistle Like That"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tWhistle Like That\nDuration:\t1:26.43\nBPM:\t\t168\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t596\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07025"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "47f142956cfba004542d8e46db8ede51993741f2",
+				"url": "/sonolus/repository/LevelCover/47f142956cfba004542d8e46db8ede51993741f2"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "4168930e88a859ede0fd7b0e72ac0a5a28032b6a",
+				"url": "/sonolus/repository/LevelBgm/4168930e88a859ede0fd7b0e72ac0a5a28032b6a"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "27d1ef4d320022038212913872224b7297e0b30e",
+				"url": "/sonolus/repository/LevelPreview/27d1ef4d320022038212913872224b7297e0b30e"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "1caee53682142d8f61be19a95f715c7adb657f89",
+				"url": "/sonolus/repository/LevelData/1caee53682142d8f61be19a95f715c7adb657f89"
+			}
+		},
+		{
+			"name": "ssp-hard-07029",
+			"version": 1,
+			"rating": 0,
+			"title": {
+				"en": "Love So Sweet [Verse 2]"
+			},
+			"artists": {
+				"en": "Cherry Bullet"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tLove So Sweet [Verse 2]\nDuration:\t1:14.06\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t413\n"
+			},
+			"engine": "ssurgents",
+			"useSkin": {
+				"useDefault": true
+			},
+			"useBackground": {
+				"useDefault": false,
+				"item": "ssp-ingame-07025"
+			},
+			"useEffect": {
+				"useDefault": true
+			},
+			"useParticle": {
+				"useDefault": true
+			},
+			"cover": {
+				"type": "LevelCover",
+				"hash": "47f142956cfba004542d8e46db8ede51993741f2",
+				"url": "/sonolus/repository/LevelCover/47f142956cfba004542d8e46db8ede51993741f2"
+			},
+			"bgm": {
+				"type": "LevelBgm",
+				"hash": "c9e70f9820180d86b3bf97f6c67feff68454fb60",
+				"url": "/sonolus/repository/LevelBgm/c9e70f9820180d86b3bf97f6c67feff68454fb60"
+			},
+			"preview": {
+				"type": "LevelPreview",
+				"hash": "b1980a7086114d53ee53b42aa49a2757eba220fb",
+				"url": "/sonolus/repository/LevelPreview/b1980a7086114d53ee53b42aa49a2757eba220fb"
+			},
+			"data": {
+				"type": "LevelData",
+				"hash": "79d364a86238b511810987b35860534d4405b28d",
+				"url": "/sonolus/repository/LevelData/79d364a86238b511810987b35860534d4405b28d"
+			}
+		}
+	],
+	"skins": [
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents Skin"
+			},
+			"subtitle": {
+				"en": "Default skin for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "SkinThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/SkinThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "SkinData",
+				"hash": "3e99452986bf9ec5a81142e69920cc11c61223f0",
+				"url": "/sonolus/repository/SkinData/3e99452986bf9ec5a81142e69920cc11c61223f0"
+			},
+			"texture": {
+				"type": "SkinTexture",
+				"hash": "cbd040bc6c6c1774469fffdb15a176ffb8f2fd88",
+				"url": "/sonolus/repository/SkinTexture/cbd040bc6c6c1774469fffdb15a176ffb8f2fd88"
+			}
+		}
+	],
+	"backgrounds": [
+		{
+			"name": "ssp-ingame-07001",
+			"version": 2,
+			"title": {
+				"en": "Hands Up default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tHands Up\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "5ad71fd646e38afe833ff7700aa17a2bb53e3819",
+				"url": "/sonolus/repository/BackgroundThumbnail/5ad71fd646e38afe833ff7700aa17a2bb53e3819"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "78065c8d3e673b120d700892af2515356b347c8c",
+				"url": "/sonolus/repository/BackgroundImage/78065c8d3e673b120d700892af2515356b347c8c"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-07002",
+			"version": 2,
+			"title": {
+				"en": "Let's Play Cherry Bullet default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tLet's Play Cherry Bullet\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "0078a4c2492f26271ff07f364bca86ee85bd077f",
+				"url": "/sonolus/repository/BackgroundThumbnail/0078a4c2492f26271ff07f364bca86ee85bd077f"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "979fe9e0fac9b9652af284c28a47b0717bd5612b",
+				"url": "/sonolus/repository/BackgroundImage/979fe9e0fac9b9652af284c28a47b0717bd5612b"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-07003",
+			"version": 2,
+			"title": {
+				"en": "LOVE ADVENTURE default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tLOVE ADVENTURE\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "96689426ecd2aa3dac2fd3d0684015690c01d215",
+				"url": "/sonolus/repository/BackgroundThumbnail/96689426ecd2aa3dac2fd3d0684015690c01d215"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "3220e32d1d370486f8179e16fe7846f969232987",
+				"url": "/sonolus/repository/BackgroundImage/3220e32d1d370486f8179e16fe7846f969232987"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-07005",
+			"version": 2,
+			"title": {
+				"en": "Cherry Rush default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tCherry Rush\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "fe3b94d74c9dcf184c62f74c19f5e7d1ddd25e81",
+				"url": "/sonolus/repository/BackgroundThumbnail/fe3b94d74c9dcf184c62f74c19f5e7d1ddd25e81"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "c44f172ca012f2fd58b52f5dfde3fd92572f7e8d",
+				"url": "/sonolus/repository/BackgroundImage/c44f172ca012f2fd58b52f5dfde3fd92572f7e8d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-07010",
+			"version": 2,
+			"title": {
+				"en": "Aloha Oe default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tAloha Oe\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "8a9ab175849b40c22d1ac34758930f9b83a51d91",
+				"url": "/sonolus/repository/BackgroundThumbnail/8a9ab175849b40c22d1ac34758930f9b83a51d91"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "8bbb76af61287a4be34fbd8a0cc230c0a68efaab",
+				"url": "/sonolus/repository/BackgroundImage/8bbb76af61287a4be34fbd8a0cc230c0a68efaab"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-07015",
+			"version": 2,
+			"title": {
+				"en": "Cherry Wish default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tCherry Wish\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "e460476ee796c93f974895d7caf76658d7a72129",
+				"url": "/sonolus/repository/BackgroundThumbnail/e460476ee796c93f974895d7caf76658d7a72129"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "f1730d743abe40ff40a4ad6cf9387835c224f13f",
+				"url": "/sonolus/repository/BackgroundImage/f1730d743abe40ff40a4ad6cf9387835c224f13f"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssp-ingame-07025",
+			"version": 2,
+			"title": {
+				"en": "Cherry Dash default"
+			},
+			"subtitle": {
+				"en": "In-game background"
+			},
+			"author": {
+				"en": "SuperStar Pledis"
+			},
+			"description": {
+				"en": "\nAlbum:\tCherry Dash\n"
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "37da4fa883b6f2960b46bd7dcdc65fad1f7e0a1f",
+				"url": "/sonolus/repository/BackgroundThumbnail/37da4fa883b6f2960b46bd7dcdc65fad1f7e0a1f"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5",
+				"url": "/sonolus/repository/BackgroundData/e3bb4bff3b472bcf4b6803c6f65183a63bcb6ed5"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "6dc4baf621b2060016f11559cdec3c4290f0deeb",
+				"url": "/sonolus/repository/BackgroundImage/6dc4baf621b2060016f11559cdec3c4290f0deeb"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		},
+		{
+			"name": "ssurgents",
+			"version": 2,
+			"title": {
+				"en": "SSuRGents default"
+			},
+			"subtitle": {
+				"en": "Engine background"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "BackgroundThumbnail",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundThumbnail/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"data": {
+				"type": "BackgroundData",
+				"hash": "269d95012614718b1bb3975b51c56e7f733d63a0",
+				"url": "/sonolus/repository/BackgroundData/269d95012614718b1bb3975b51c56e7f733d63a0"
+			},
+			"image": {
+				"type": "BackgroundImage",
+				"hash": "876f70b174737397a7f3f2453b8235437b91191d",
+				"url": "/sonolus/repository/BackgroundImage/876f70b174737397a7f3f2453b8235437b91191d"
+			},
+			"configuration": {
+				"type": "BackgroundConfiguration",
+				"hash": "2851d51d5b657eca6fe39dfa205792961971f607",
+				"url": "/sonolus/repository/BackgroundConfiguration/2851d51d5b657eca6fe39dfa205792961971f607"
+			}
+		}
+	],
+	"effects": [
+		{
+			"name": "ssurgents",
+			"version": 4,
+			"title": {
+				"en": "SSuRGents Effect"
+			},
+			"subtitle": {
+				"en": "Default effect for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "EffectThumbnail",
+				"hash": "27593707536cd5da43e946ec0a10a4232ea81bbf",
+				"url": "/sonolus/repository/EffectThumbnail/27593707536cd5da43e946ec0a10a4232ea81bbf"
+			},
+			"data": {
+				"type": "EffectData",
+				"hash": "e400379197d80814cce6aa9da79f31f95df525c3",
+				"url": "/sonolus/repository/EffectData/e400379197d80814cce6aa9da79f31f95df525c3"
+			},
+			"audio": {
+				"type": "EffectAudio",
+				"hash": "2f59494f3533b72e0ad882309d2c1abcd8f49399",
+				"url": "/sonolus/repository/EffectAudio/2f59494f3533b72e0ad882309d2c1abcd8f49399"
+			}
+		}
+	],
+	"particles": [
+		{
+			"name": "ssurgents",
+			"version": 1,
+			"title": {
+				"en": "SSuRGents Particles"
+			},
+			"subtitle": {
+				"en": "Default particles for ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": ""
+			},
+			"thumbnail": {
+				"type": "ParticleThumbnail",
+				"hash": "6ce72c2ddd4270e01b3806a288442bc87acb43c2",
+				"url": "/sonolus/repository/ParticleThumbnail/6ce72c2ddd4270e01b3806a288442bc87acb43c2"
+			},
+			"data": {
+				"type": "ParticleData",
+				"hash": "14d931d5cf9f210f8744c71662fca46623a4851f",
+				"url": "/sonolus/repository/ParticleData/14d931d5cf9f210f8744c71662fca46623a4851f"
+			},
+			"texture": {
+				"type": "ParticleTexture",
+				"hash": "20289e66283b8e4ae20a842b8cb188f8b59269ea",
+				"url": "/sonolus/repository/ParticleTexture/20289e66283b8e4ae20a842b8cb188f8b59269ea"
+			}
+		}
+	],
+	"engines": [
+		{
+			"name": "ssurgents",
+			"version": 7,
+			"title": {
+				"en": "SSuRGents"
+			},
+			"subtitle": {
+				"en": "Default ssurgents engine"
+			},
+			"author": {
+				"en": "ssurgents"
+			},
+			"description": {
+				"en": "(Work in progress)"
+			},
+			"skin": "ssurgents",
+			"background": "ssurgents",
+			"effect": "ssurgents",
+			"particle": "ssurgents",
+			"thumbnail": {
+				"type": "EngineThumbnail",
+				"hash": "26e6ab628642d7b9e87de72fb7b940f6eea1a2a3",
+				"url": "/sonolus/repository/EngineThumbnail/26e6ab628642d7b9e87de72fb7b940f6eea1a2a3"
+			},
+			"data": {
+				"type": "EngineData",
+				"hash": "fdd75080e8a35cd44df885d721249dc22a2293cd",
+				"url": "/sonolus/repository/EngineData/fdd75080e8a35cd44df885d721249dc22a2293cd"
+			},
+			"configuration": {
+				"type": "EngineConfiguration",
+				"hash": "51e70081dd1b396404ada7014d06baf4102bf1eb",
+				"url": "/sonolus/repository/EngineConfiguration/51e70081dd1b396404ada7014d06baf4102bf1eb"
+			}
+		}
+	]
+}
