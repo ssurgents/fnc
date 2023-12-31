@@ -761,8 +761,8 @@
 			},
 			"bgm": {
 				"type": "LevelBgm",
-				"hash": "75aa68b8b33ba9ae97149312361361bf6184f489",
-				"url": "/sonolus/repository/LevelBgm/75aa68b8b33ba9ae97149312361361bf6184f489"
+				"hash": "2f3bd2732520c46daaed6b439e681201dc924a4b",
+				"url": "/sonolus/repository/LevelBgm/2f3bd2732520c46daaed6b439e681201dc924a4b"
 			},
 			"preview": {
 				"type": "LevelPreview",
@@ -1443,7 +1443,7 @@
 			"version": 1,
 			"rating": 0,
 			"title": {
-				"en": "Love So Sweet [Verse 2]"
+				"en": "P.O.W! [Verse 2]"
 			},
 			"artists": {
 				"en": "Cherry Bullet"
@@ -1452,7 +1452,7 @@
 				"en": "SuperStar Pledis"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tLove So Sweet [Verse 2]\nDuration:\t1:14.06\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t413\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tP.O.W! [Verse 2]\nDuration:\t1:14.06\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t413\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
