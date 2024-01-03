@@ -11,7 +11,7 @@
 	},
 	"levels": [
 		{
-			"name": "ssp-hard-07001",
+			"name": "ssf-hard-07001",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -21,10 +21,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tHands Up\nTitle:\t\t\t무릎을 탁 치고 (Hands Up)\nDuration:\t1:45.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t668\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tHands Up\nTitle:\t\t\t무릎을 탁 치고 (Hands Up)\nDuration:\t1:45.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t668\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -32,7 +32,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07001"
+				"item": "ssf-ingame-07001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -62,7 +62,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07002",
+			"name": "ssf-hard-07002",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -72,10 +72,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLet's Play Cherry Bullet\nTitle:\t\t\tQ&A\nDuration:\t1:29.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t514\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLet's Play Cherry Bullet\nTitle:\t\t\tQ&A\nDuration:\t1:29.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t514\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -83,7 +83,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07002"
+				"item": "ssf-ingame-07002"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -113,7 +113,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07003",
+			"name": "ssf-hard-07003",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -123,10 +123,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t네가 참 좋아 (Really Really)\nDuration:\t1:33.46\nBPM:\t\t104\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t550\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t네가 참 좋아 (Really Really)\nDuration:\t1:33.46\nBPM:\t\t104\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t550\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -134,7 +134,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07003"
+				"item": "ssf-ingame-07003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -164,7 +164,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07004",
+			"name": "ssf-hard-07004",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -174,10 +174,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLet's Play Cherry Bullet\nTitle:\t\t\t눈에 띄네 (Stick Out)\nDuration:\t1:22.86\nBPM:\t\t84\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t541\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLet's Play Cherry Bullet\nTitle:\t\t\t눈에 띄네 (Stick Out)\nDuration:\t1:22.86\nBPM:\t\t84\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t541\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -185,7 +185,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07002"
+				"item": "ssf-ingame-07002"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -215,7 +215,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07005",
+			"name": "ssf-hard-07005",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -225,10 +225,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\tLove So Sweet\nDuration:\t1:22.40\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t517\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\tLove So Sweet\nDuration:\t1:22.40\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t517\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -236,7 +236,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07005"
+				"item": "ssf-ingame-07005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -266,7 +266,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07006",
+			"name": "ssf-hard-07006",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -276,10 +276,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t라팜파 (Follow Me)\nDuration:\t1:31.89\nBPM:\t\t111\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t545\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t라팜파 (Follow Me)\nDuration:\t1:31.89\nBPM:\t\t111\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t545\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -287,7 +287,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07005"
+				"item": "ssf-ingame-07005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -317,7 +317,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07007",
+			"name": "ssf-hard-07007",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -327,10 +327,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t폼 나게 (Keep Your Head Up)\nDuration:\t1:19.69\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t445\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t폼 나게 (Keep Your Head Up)\nDuration:\t1:19.69\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t445\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -338,7 +338,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07005"
+				"item": "ssf-ingame-07005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -368,7 +368,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07008",
+			"name": "ssf-hard-07008",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -378,10 +378,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t탁구공 (Ping Pong)\nDuration:\t1:31.82\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t601\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t탁구공 (Ping Pong)\nDuration:\t1:31.82\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t601\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -389,7 +389,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07003"
+				"item": "ssf-ingame-07003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -419,7 +419,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07009",
+			"name": "ssf-hard-07009",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -429,10 +429,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLet's Play Cherry Bullet\nTitle:\t\t\tQ&A [Verse 2]\nDuration:\t1:13.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t462\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLet's Play Cherry Bullet\nTitle:\t\t\tQ&A [Verse 2]\nDuration:\t1:13.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t462\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -440,7 +440,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07002"
+				"item": "ssf-ingame-07002"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -470,7 +470,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07010",
+			"name": "ssf-hard-07010",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -480,10 +480,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tAloha Oe\nTitle:\t\t\t알로하오에 (Aloha Oe)\nDuration:\t1:20.32\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t459\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tAloha Oe\nTitle:\t\t\t알로하오에 (Aloha Oe)\nDuration:\t1:20.32\nBPM:\t\t124\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t459\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -491,7 +491,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07010"
+				"item": "ssf-ingame-07010"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -521,7 +521,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07011",
+			"name": "ssf-hard-07011",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -531,10 +531,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tHands Up\nTitle:\t\t\t무릎을 탁 치고 (Hands Up) [Verse 2]\nDuration:\t1:25.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t485\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tHands Up\nTitle:\t\t\t무릎을 탁 치고 (Hands Up) [Verse 2]\nDuration:\t1:25.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t485\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -542,7 +542,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07001"
+				"item": "ssf-ingame-07001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -572,7 +572,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07012",
+			"name": "ssf-hard-07012",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -582,10 +582,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t멋대로 해 (Whatever)\nDuration:\t1:38.50\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t582\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t멋대로 해 (Whatever)\nDuration:\t1:38.50\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t582\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -593,7 +593,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07005"
+				"item": "ssf-ingame-07005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -623,7 +623,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07013",
+			"name": "ssf-hard-07013",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -633,10 +633,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t발그레 (Ruddy)\nDuration:\t1:30.00\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t531\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t발그레 (Ruddy)\nDuration:\t1:30.00\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t531\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -644,7 +644,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07003"
+				"item": "ssf-ingame-07003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -674,7 +674,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07014",
+			"name": "ssf-hard-07014",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -684,10 +684,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t종소리 (Ting-a-ring-a-ring)\nDuration:\t1:25.90\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t478\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\t종소리 (Ting-a-ring-a-ring)\nDuration:\t1:25.90\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t478\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -695,7 +695,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07005"
+				"item": "ssf-ingame-07005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -725,7 +725,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07015",
+			"name": "ssf-hard-07015",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -735,10 +735,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tLove In Space\nDuration:\t1:36.16\nBPM:\t\t156\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t833\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tLove In Space\nDuration:\t1:36.16\nBPM:\t\t156\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t833\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -746,7 +746,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07015"
+				"item": "ssf-ingame-07015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -776,7 +776,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07016",
+			"name": "ssf-hard-07016",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -786,10 +786,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tLove In Space [Verse 2]\nDuration:\t1:13.08\nBPM:\t\t156\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t572\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tLove In Space [Verse 2]\nDuration:\t1:13.08\nBPM:\t\t156\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t572\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -797,7 +797,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07015"
+				"item": "ssf-ingame-07015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -827,7 +827,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07017",
+			"name": "ssf-hard-07017",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -837,10 +837,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tBroken\nDuration:\t1:35.43\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t510\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tBroken\nDuration:\t1:35.43\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t510\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -848,7 +848,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07015"
+				"item": "ssf-ingame-07015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -878,7 +878,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07018",
+			"name": "ssf-hard-07018",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -888,10 +888,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t네가 참 좋아 (Really Really) [Verse 2]\nDuration:\t1:17.31\nBPM:\t\t104\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t490\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tLOVE ADVENTURE\nTitle:\t\t\t네가 참 좋아 (Really Really) [Verse 2]\nDuration:\t1:17.31\nBPM:\t\t104\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t490\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -899,7 +899,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07003"
+				"item": "ssf-ingame-07003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -929,7 +929,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07019",
+			"name": "ssf-hard-07019",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -939,10 +939,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tMy Boo\nDuration:\t1:24.64\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t512\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tMy Boo\nDuration:\t1:24.64\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t512\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -950,7 +950,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07015"
+				"item": "ssf-ingame-07015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -980,7 +980,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07020",
+			"name": "ssf-hard-07020",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -990,10 +990,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\t닿을까 말까 (KKa KKa)\nDuration:\t1:35.08\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t661\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\t닿을까 말까 (KKa KKa)\nDuration:\t1:35.08\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t661\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1001,7 +1001,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07015"
+				"item": "ssf-ingame-07015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1031,7 +1031,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07021",
+			"name": "ssf-hard-07021",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1041,10 +1041,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tBroken [Verse 2]\nDuration:\t1:29.77\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t504\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tBroken [Verse 2]\nDuration:\t1:29.77\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t504\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1052,7 +1052,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07015"
+				"item": "ssf-ingame-07015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1082,7 +1082,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07022",
+			"name": "ssf-hard-07022",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1092,10 +1092,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\t닿을까 말까 (KKa KKa) [Verse 2]\nDuration:\t1:29.54\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t604\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\t닿을까 말까 (KKa KKa) [Verse 2]\nDuration:\t1:29.54\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t604\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1103,7 +1103,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07015"
+				"item": "ssf-ingame-07015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1133,7 +1133,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07023",
+			"name": "ssf-hard-07023",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1143,10 +1143,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tMy Boo [Verse 2]\nDuration:\t1:24.64\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t569\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tMy Boo [Verse 2]\nDuration:\t1:24.64\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t569\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1154,7 +1154,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07015"
+				"item": "ssf-ingame-07015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1184,7 +1184,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07024",
+			"name": "ssf-hard-07024",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1194,10 +1194,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tLove In Space [Full]\nDuration:\t3:40.77\nBPM:\t\t156\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t1590\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Wish\nTitle:\t\t\tLove In Space [Full]\nDuration:\t3:40.77\nBPM:\t\t156\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t1590\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1205,7 +1205,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07015"
+				"item": "ssf-ingame-07015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1235,7 +1235,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07025",
+			"name": "ssf-hard-07025",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1245,10 +1245,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\t겨울 별 (A Winter Star)\nDuration:\t1:37.94\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t373\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\t겨울 별 (A Winter Star)\nDuration:\t1:37.94\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t373\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1256,7 +1256,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07025"
+				"item": "ssf-ingame-07025"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1286,7 +1286,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07026",
+			"name": "ssf-hard-07026",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1296,10 +1296,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\tLove So Sweet [Verse 2]\nDuration:\t1:28.80\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t605\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Rush\nTitle:\t\t\tLove So Sweet [Verse 2]\nDuration:\t1:28.80\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t605\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1307,7 +1307,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07005"
+				"item": "ssf-ingame-07005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1337,7 +1337,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07027",
+			"name": "ssf-hard-07027",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1347,10 +1347,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tP.O.W! (Play On The World)\nDuration:\t1:40.31\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t578\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tP.O.W! (Play On The World)\nDuration:\t1:40.31\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t578\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1358,7 +1358,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07025"
+				"item": "ssf-ingame-07025"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1388,7 +1388,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07028",
+			"name": "ssf-hard-07028",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1398,10 +1398,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tWhistle Like That\nDuration:\t1:26.43\nBPM:\t\t168\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t596\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tWhistle Like That\nDuration:\t1:26.43\nBPM:\t\t168\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t596\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1409,7 +1409,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07025"
+				"item": "ssf-ingame-07025"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1439,7 +1439,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-07029",
+			"name": "ssf-hard-07029",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1449,10 +1449,10 @@
 				"en": "Cherry Bullet"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tP.O.W! [Verse 2]\nDuration:\t1:14.06\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t413\n"
+				"en": "\n### Music ###\nArtist:\t\tCherry Bullet\nAlbum:\t\tCherry Dash\nTitle:\t\t\tP.O.W! [Verse 2]\nDuration:\t1:14.06\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t413\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1460,7 +1460,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-07025"
+				"item": "ssf-ingame-07025"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1525,7 +1525,7 @@
 	],
 	"backgrounds": [
 		{
-			"name": "ssp-ingame-07001",
+			"name": "ssf-ingame-07001",
 			"version": 2,
 			"title": {
 				"en": "Hands Up default"
@@ -1534,7 +1534,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tHands Up\n"
@@ -1561,7 +1561,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-07002",
+			"name": "ssf-ingame-07002",
 			"version": 2,
 			"title": {
 				"en": "Let's Play Cherry Bullet default"
@@ -1570,7 +1570,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tLet's Play Cherry Bullet\n"
@@ -1597,7 +1597,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-07003",
+			"name": "ssf-ingame-07003",
 			"version": 2,
 			"title": {
 				"en": "LOVE ADVENTURE default"
@@ -1606,7 +1606,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tLOVE ADVENTURE\n"
@@ -1633,7 +1633,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-07005",
+			"name": "ssf-ingame-07005",
 			"version": 2,
 			"title": {
 				"en": "Cherry Rush default"
@@ -1642,7 +1642,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tCherry Rush\n"
@@ -1669,7 +1669,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-07010",
+			"name": "ssf-ingame-07010",
 			"version": 2,
 			"title": {
 				"en": "Aloha Oe default"
@@ -1678,7 +1678,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tAloha Oe\n"
@@ -1705,7 +1705,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-07015",
+			"name": "ssf-ingame-07015",
 			"version": 2,
 			"title": {
 				"en": "Cherry Wish default"
@@ -1714,7 +1714,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tCherry Wish\n"
@@ -1741,7 +1741,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-07025",
+			"name": "ssf-ingame-07025",
 			"version": 2,
 			"title": {
 				"en": "Cherry Dash default"
@@ -1750,7 +1750,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tCherry Dash\n"

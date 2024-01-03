@@ -11,7 +11,7 @@
 	},
 	"levels": [
 		{
-			"name": "ssp-hard-02001",
+			"name": "ssf-hard-02001",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -21,10 +21,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBluetory\nTitle:\t\t\t외톨이야 (Loner)\nDuration:\t1:46.29\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t628\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBluetory\nTitle:\t\t\t외톨이야 (Loner)\nDuration:\t1:46.29\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t628\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -32,7 +32,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02001"
+				"item": "ssf-ingame-02001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -62,7 +62,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02002",
+			"name": "ssf-hard-02002",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -72,10 +72,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tFIRST STEP\nTitle:\t\t\t직감 (Intuition)\nDuration:\t1:37.50\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t607\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tFIRST STEP\nTitle:\t\t\t직감 (Intuition)\nDuration:\t1:37.50\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t607\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -83,7 +83,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02002"
+				"item": "ssf-ingame-02002"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -113,7 +113,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02003",
+			"name": "ssf-hard-02003",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -123,10 +123,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRe:BLUE\nTitle:\t\t\tI'm Sorry\nDuration:\t1:39.85\nBPM:\t\t131\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t643\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRe:BLUE\nTitle:\t\t\tI'm Sorry\nDuration:\t1:39.85\nBPM:\t\t131\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t643\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -134,7 +134,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02003"
+				"item": "ssf-ingame-02003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -164,7 +164,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02004",
+			"name": "ssf-hard-02004",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -174,10 +174,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tCan't Stop\nTitle:\t\t\tCan't Stop\nDuration:\t1:44.31\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t495\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tCan't Stop\nTitle:\t\t\tCan't Stop\nDuration:\t1:44.31\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t495\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -185,7 +185,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02004"
+				"item": "ssf-ingame-02004"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -215,7 +215,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02005",
+			"name": "ssf-hard-02005",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -225,10 +225,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\t2gether\nTitle:\t\t\t신데렐라 (Cinderella)\nDuration:\t1:27.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t506\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\t2gether\nTitle:\t\t\t신데렐라 (Cinderella)\nDuration:\t1:27.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t506\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -236,7 +236,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02005"
+				"item": "ssf-ingame-02005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -266,7 +266,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02006",
+			"name": "ssf-hard-02006",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -276,10 +276,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t과거 현재 미래 (Then, Now and Forever)\nDuration:\t1:33.42\nBPM:\t\t158\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t471\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t과거 현재 미래 (Then, Now and Forever)\nDuration:\t1:33.42\nBPM:\t\t158\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t471\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -287,7 +287,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -317,7 +317,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02007",
+			"name": "ssf-hard-02007",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -327,10 +327,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t추원졌네. (Winter Again.)\nDuration:\t1:20.00\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t334\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t추원졌네. (Winter Again.)\nDuration:\t1:20.00\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t334\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -338,7 +338,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -368,7 +368,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02008",
+			"name": "ssf-hard-02008",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -378,10 +378,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBluelove\nTitle:\t\t\tLove\nDuration:\t1:32.40\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t520\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBluelove\nTitle:\t\t\tLove\nDuration:\t1:32.40\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t520\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -389,7 +389,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02008"
+				"item": "ssf-ingame-02008"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -419,7 +419,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02009",
+			"name": "ssf-hard-02009",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -429,10 +429,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t오늘은 이만 (Till Then)\nDuration:\t1:09.92\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t407\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t오늘은 이만 (Till Then)\nDuration:\t1:09.92\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t407\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -440,7 +440,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -470,7 +470,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02010",
+			"name": "ssf-hard-02010",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -480,10 +480,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBLUEMING\nTitle:\t\t\t이렇게 예뻤나 (YOU'RE SO FINE)\nDuration:\t1:39.49\nBPM:\t\t117\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t451\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBLUEMING\nTitle:\t\t\t이렇게 예뻤나 (YOU'RE SO FINE)\nDuration:\t1:39.49\nBPM:\t\t117\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t451\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -491,7 +491,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02010"
+				"item": "ssf-ingame-02010"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -521,7 +521,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02011",
+			"name": "ssf-hard-02011",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -531,10 +531,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t없다 (In Time)\nDuration:\t1:26.12\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t327\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t없다 (In Time)\nDuration:\t1:26.12\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t327\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -542,7 +542,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -572,7 +572,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02012",
+			"name": "ssf-hard-02012",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -582,10 +582,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tEAR FUN\nTitle:\t\t\tHey You\nDuration:\t1:39.60\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t566\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tEAR FUN\nTitle:\t\t\tHey You\nDuration:\t1:39.60\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t566\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -593,7 +593,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02012"
+				"item": "ssf-ingame-02012"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -623,7 +623,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02013",
+			"name": "ssf-hard-02013",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -633,10 +633,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\tLove Girl\nDuration:\t1:22.50\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t534\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\tLove Girl\nDuration:\t1:22.50\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t534\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -644,7 +644,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -674,7 +674,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02014",
+			"name": "ssf-hard-02014",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -684,10 +684,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\t7°CN\nTitle:\t\t\t헷갈리게 (Between Us)\nDuration:\t1:45.43\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t634\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\t7°CN\nTitle:\t\t\t헷갈리게 (Between Us)\nDuration:\t1:45.43\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t634\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -695,7 +695,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02014"
+				"item": "ssf-ingame-02014"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -725,7 +725,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02015",
+			"name": "ssf-hard-02015",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -735,10 +735,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\t싹둑 (Love Cut)\nDuration:\t1:10.00\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t396\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\t싹둑 (Love Cut)\nDuration:\t1:10.00\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t396\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -746,7 +746,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02015"
+				"item": "ssf-ingame-02015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -776,7 +776,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02016",
+			"name": "ssf-hard-02016",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -786,10 +786,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\tTime Capsule\nDuration:\t1:24.29\nBPM:\t\t84\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t338\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\tTime Capsule\nDuration:\t1:24.29\nBPM:\t\t84\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t338\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -797,7 +797,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02015"
+				"item": "ssf-ingame-02015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -827,7 +827,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02017",
+			"name": "ssf-hard-02017",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -837,10 +837,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t과거 현재 미래 (Then, Now and Forever) [Verse 2]\nDuration:\t1:31.90\nBPM:\t\t158\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t450\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t과거 현재 미래 (Then, Now and Forever) [Verse 2]\nDuration:\t1:31.90\nBPM:\t\t158\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t450\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -848,7 +848,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -878,7 +878,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02018",
+			"name": "ssf-hard-02018",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -888,10 +888,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\tHold Me Back\nDuration:\t1:25.36\nBPM:\t\t97\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t370\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\tHold Me Back\nDuration:\t1:25.36\nBPM:\t\t97\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t370\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -899,7 +899,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02015"
+				"item": "ssf-ingame-02015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -929,7 +929,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02019",
+			"name": "ssf-hard-02019",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -939,10 +939,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\t7°CN\nTitle:\t\t\tIt's You\nDuration:\t1:26.36\nBPM:\t\t107\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t434\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\t7°CN\nTitle:\t\t\tIt's You\nDuration:\t1:26.36\nBPM:\t\t107\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t434\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -950,7 +950,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02014"
+				"item": "ssf-ingame-02014"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -980,7 +980,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02020",
+			"name": "ssf-hard-02020",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -990,10 +990,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tEUPHORIA\nTitle:\t\t\tFace to face\nDuration:\t1:40.00\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t695\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tEUPHORIA\nTitle:\t\t\tFace to face\nDuration:\t1:40.00\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t695\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1001,7 +1001,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02020"
+				"item": "ssf-ingame-02020"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1031,7 +1031,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02021",
+			"name": "ssf-hard-02021",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1041,10 +1041,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t오늘은 이만 (Till Then) [Verse 2]\nDuration:\t1:22.44\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t397\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t오늘은 이만 (Till Then) [Verse 2]\nDuration:\t1:22.44\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t397\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1052,7 +1052,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1082,7 +1082,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02022",
+			"name": "ssf-hard-02022",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1092,10 +1092,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBLUEMING\nTitle:\t\t\t이렇게 예뻤나 (You're So Fine) [Verse 2]\nDuration:\t1:31.28\nBPM:\t\t117\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t467\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBLUEMING\nTitle:\t\t\t이렇게 예뻤나 (You're So Fine) [Verse 2]\nDuration:\t1:31.28\nBPM:\t\t117\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t467\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1103,7 +1103,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02010"
+				"item": "ssf-ingame-02010"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1133,7 +1133,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02023",
+			"name": "ssf-hard-02023",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1143,10 +1143,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBLUEMING\nTitle:\t\t\tYOUNG FOREVER\nDuration:\t1:51.79\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t625\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBLUEMING\nTitle:\t\t\tYOUNG FOREVER\nDuration:\t1:51.79\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t625\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1154,7 +1154,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02010"
+				"item": "ssf-ingame-02010"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1184,7 +1184,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02024",
+			"name": "ssf-hard-02024",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1194,10 +1194,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\t7°CN\nTitle:\t\t\t마니또 (Manito)\nDuration:\t1:46.80\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t546\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\t7°CN\nTitle:\t\t\t마니또 (Manito)\nDuration:\t1:46.80\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t546\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1205,7 +1205,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02014"
+				"item": "ssf-ingame-02014"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1235,7 +1235,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02025",
+			"name": "ssf-hard-02025",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1245,10 +1245,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\tBlue Stars\nDuration:\t1:36.70\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t620\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\tBlue Stars\nDuration:\t1:36.70\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t620\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1256,7 +1256,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1286,7 +1286,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02026",
+			"name": "ssf-hard-02026",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1296,10 +1296,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t없다 (In Time) [Verse 2]\nDuration:\t1:23.30\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t332\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t없다 (In Time) [Verse 2]\nDuration:\t1:23.30\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t332\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1307,7 +1307,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1337,7 +1337,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02027",
+			"name": "ssf-hard-02027",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1347,10 +1347,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBluetory\nTitle:\t\t\tY, Why...\nDuration:\t1:35.72\nBPM:\t\t84\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t416\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBluetory\nTitle:\t\t\tY, Why...\nDuration:\t1:35.72\nBPM:\t\t84\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t416\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1358,7 +1358,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02001"
+				"item": "ssf-ingame-02001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1388,7 +1388,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02028",
+			"name": "ssf-hard-02028",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1398,10 +1398,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\t엉터리 (Nothing)\nDuration:\t1:39.30\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t629\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\t엉터리 (Nothing)\nDuration:\t1:39.30\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t629\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1409,7 +1409,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02015"
+				"item": "ssf-ingame-02015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1439,7 +1439,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02029",
+			"name": "ssf-hard-02029",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1449,10 +1449,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\tHold Me Back [Verse 2]\nDuration:\t1:37.73\nBPM:\t\t97\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t464\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\tHold Me Back [Verse 2]\nDuration:\t1:37.73\nBPM:\t\t97\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t464\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1460,7 +1460,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02015"
+				"item": "ssf-ingame-02015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1490,7 +1490,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02030",
+			"name": "ssf-hard-02030",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1500,10 +1500,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tEUPHORIA\nTitle:\t\t\tFace to face [Verse 2]\nDuration:\t1:16.00\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t451\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tEUPHORIA\nTitle:\t\t\tFace to face [Verse 2]\nDuration:\t1:16.00\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t451\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1511,7 +1511,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02020"
+				"item": "ssf-ingame-02020"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1541,7 +1541,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02031",
+			"name": "ssf-hard-02031",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1551,10 +1551,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t추워졌네. (Winter Again.) [Verse 2]\nDuration:\t1:26.67\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t327\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\t추워졌네. (Winter Again.) [Verse 2]\nDuration:\t1:26.67\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t327\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1562,7 +1562,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1592,7 +1592,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02032",
+			"name": "ssf-hard-02032",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1602,10 +1602,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRe:BLUE\nTitle:\t\t\tCoffee Shop\nDuration:\t1:41.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t630\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRe:BLUE\nTitle:\t\t\tCoffee Shop\nDuration:\t1:41.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t630\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1613,7 +1613,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02003"
+				"item": "ssf-ingame-02003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1643,7 +1643,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02033",
+			"name": "ssf-hard-02033",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1653,10 +1653,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBluelove\nTitle:\t\t\tSweet Holiday\nDuration:\t1:13.93\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t351\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBluelove\nTitle:\t\t\tSweet Holiday\nDuration:\t1:13.93\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t351\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1664,7 +1664,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02008"
+				"item": "ssf-ingame-02008"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1694,7 +1694,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02034",
+			"name": "ssf-hard-02034",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1704,10 +1704,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBluetory\nTitle:\t\t\tLove Revolution\nDuration:\t1:22.40\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t594\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tBluetory\nTitle:\t\t\tLove Revolution\nDuration:\t1:22.40\nBPM:\t\t150\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t594\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1715,7 +1715,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02001"
+				"item": "ssf-ingame-02001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1745,7 +1745,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02035",
+			"name": "ssf-hard-02035",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1755,10 +1755,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\t싹둑 (Love Cut) [Verse 2]\nDuration:\t1:24.94\nBPM:\t\t0:00.00-0:56.36: 132.0\n\t\t\t\t0:56.36-0:58.65: 105.0\n\t\t\t\t0:58.65-1:23.79: 105.0\n\t\t\t\t1:23.79-1:24.94: 105.0\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t475\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\t싹둑 (Love Cut) [Verse 2]\nDuration:\t1:24.94\nBPM:\t\t0:00.00-0:56.36: 132.0\n\t\t\t\t0:56.36-0:58.65: 105.0\n\t\t\t\t0:58.65-1:23.79: 105.0\n\t\t\t\t1:23.79-1:24.94: 105.0\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t475\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1766,7 +1766,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02015"
+				"item": "ssf-ingame-02015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1796,7 +1796,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02036",
+			"name": "ssf-hard-02036",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1806,10 +1806,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\t99%\nDuration:\t1:10.14\nBPM:\t\t142\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t491\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tWANTED\nTitle:\t\t\t99%\nDuration:\t1:10.14\nBPM:\t\t142\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t491\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1817,7 +1817,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02015"
+				"item": "ssf-ingame-02015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1847,7 +1847,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-02037",
+			"name": "ssf-hard-02037",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1857,10 +1857,10 @@
 				"en": "CNBLUE"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\tBlue Stars [Verse 2]\nDuration:\t1:29.71\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t529\n"
+				"en": "\n### Music ###\nArtist:\t\tCNBLUE\nAlbum:\t\tRE-CODE\nTitle:\t\t\tBlue Stars [Verse 2]\nDuration:\t1:29.71\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t529\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1868,7 +1868,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-02006"
+				"item": "ssf-ingame-02006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1898,7 +1898,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-09001",
+			"name": "ssf-hard-09001",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1908,10 +1908,10 @@
 				"en": "Jung Yong Hwa"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t화답(和答)프로젝트 (Reply Project) Vol.1\nTitle:\t\t\t너,나,우리 (Would You Marry Me?) (Feat. 이준, 윤두준of하이라이트, 광희)\nDuration:\t2:04.14\nBPM:\t\t87\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t538\n"
+				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t화답(和答)프로젝트 (Reply Project) Vol.1\nTitle:\t\t\t너,나,우리 (Would You Marry Me?) (Feat. 이준, 윤두준of하이라이트, 광희)\nDuration:\t2:04.14\nBPM:\t\t87\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t538\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1919,7 +1919,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-09001"
+				"item": "ssf-ingame-09001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1949,7 +1949,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-09002",
+			"name": "ssf-hard-09002",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1959,10 +1959,10 @@
 				"en": "Jung Yong Hwa"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t어느 멋진 날 (One Fine Day)\nTitle:\t\t\t어느 멋진 날 (One Fine Day)\nDuration:\t1:40.56\nBPM:\t\t142\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t453\n"
+				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t어느 멋진 날 (One Fine Day)\nTitle:\t\t\t어느 멋진 날 (One Fine Day)\nDuration:\t1:40.56\nBPM:\t\t142\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t453\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1970,7 +1970,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-09002"
+				"item": "ssf-ingame-09002"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2000,7 +2000,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-09003",
+			"name": "ssf-hard-09003",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2010,10 +2010,10 @@
 				"en": "Jung Yong Hwa"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t어느 멋진 날 (One Fine Day)\nTitle:\t\t\t원기옥 (Energy) (With 버벌진트)\nDuration:\t1:37.87\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t441\n"
+				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t어느 멋진 날 (One Fine Day)\nTitle:\t\t\t원기옥 (Energy) (With 버벌진트)\nDuration:\t1:37.87\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t441\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2021,7 +2021,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-09002"
+				"item": "ssf-ingame-09002"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2051,7 +2051,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-09004",
+			"name": "ssf-hard-09004",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2061,10 +2061,10 @@
 				"en": "Jung Yong Hwa"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t화답(和答)프로젝트 (Reply Project) Vol.1\nTitle:\t\t\t너,나,우리 (Would You Marry Me?) [Verse 2]\nDuration:\t1:28.28\nBPM:\t\t87\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t356\n"
+				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t화답(和答)프로젝트 (Reply Project) Vol.1\nTitle:\t\t\t너,나,우리 (Would You Marry Me?) [Verse 2]\nDuration:\t1:28.28\nBPM:\t\t87\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t356\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2072,7 +2072,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-09001"
+				"item": "ssf-ingame-09001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2102,7 +2102,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-09005",
+			"name": "ssf-hard-09005",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2112,10 +2112,10 @@
 				"en": "Jung Yong Hwa"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t별, 그대 (You, My Star)\nTitle:\t\t\t별, 그대 (Star, You) [Full]\nDuration:\t3:37.15\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t1499\n"
+				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t별, 그대 (You, My Star)\nTitle:\t\t\t별, 그대 (Star, You) [Full]\nDuration:\t3:37.15\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t1499\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2123,7 +2123,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-09005"
+				"item": "ssf-ingame-09005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2153,7 +2153,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-09006",
+			"name": "ssf-hard-09006",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2163,10 +2163,10 @@
 				"en": "Jung Yong Hwa"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t처음 사랑하는 연인들을 위해 (부제: 반말송) (For First Time Lovers)\nTitle:\t\t\t처음 사랑하는 연인들을 위해 (반말송) [Verse 1]\nDuration:\t1:47.78\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t470\n"
+				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\t처음 사랑하는 연인들을 위해 (부제: 반말송) (For First Time Lovers)\nTitle:\t\t\t처음 사랑하는 연인들을 위해 (반말송) [Verse 1]\nDuration:\t1:47.78\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t470\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2174,7 +2174,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-09006"
+				"item": "ssf-ingame-09006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2204,7 +2204,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-09007",
+			"name": "ssf-hard-09007",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2214,10 +2214,10 @@
 				"en": "Jung Yong Hwa"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\tYOUR CITY\nTitle:\t\t\t그대의 시간에 맞출게요 (On Your Time)\nDuration:\t1:16.27\nBPM:\t\t118\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t391\n"
+				"en": "\n### Music ###\nArtist:\t\tJung Yong Hwa\nAlbum:\t\tYOUR CITY\nTitle:\t\t\t그대의 시간에 맞출게요 (On Your Time)\nDuration:\t1:16.27\nBPM:\t\t118\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t391\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2225,7 +2225,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-09007"
+				"item": "ssf-ingame-09007"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2290,7 +2290,7 @@
 	],
 	"backgrounds": [
 		{
-			"name": "ssp-ingame-02001",
+			"name": "ssf-ingame-02001",
 			"version": 2,
 			"title": {
 				"en": "Bluetory default"
@@ -2299,7 +2299,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tBluetory\n"
@@ -2326,7 +2326,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02002",
+			"name": "ssf-ingame-02002",
 			"version": 2,
 			"title": {
 				"en": "FIRST STEP default"
@@ -2335,7 +2335,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tFIRST STEP\n"
@@ -2362,7 +2362,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02003",
+			"name": "ssf-ingame-02003",
 			"version": 2,
 			"title": {
 				"en": "Re:BLUE default"
@@ -2371,7 +2371,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tRe:BLUE\n"
@@ -2398,7 +2398,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02004",
+			"name": "ssf-ingame-02004",
 			"version": 2,
 			"title": {
 				"en": "Can't Stop default"
@@ -2407,7 +2407,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tCan't Stop\n"
@@ -2434,7 +2434,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02005",
+			"name": "ssf-ingame-02005",
 			"version": 2,
 			"title": {
 				"en": "2gether default"
@@ -2443,7 +2443,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\t2gether\n"
@@ -2470,7 +2470,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02006",
+			"name": "ssf-ingame-02006",
 			"version": 2,
 			"title": {
 				"en": "RE-CODE default"
@@ -2479,7 +2479,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tRE-CODE\n"
@@ -2506,7 +2506,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02008",
+			"name": "ssf-ingame-02008",
 			"version": 2,
 			"title": {
 				"en": "Bluelove default"
@@ -2515,7 +2515,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tBluelove\n"
@@ -2542,7 +2542,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02010",
+			"name": "ssf-ingame-02010",
 			"version": 2,
 			"title": {
 				"en": "BLUEMING default"
@@ -2551,7 +2551,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tBLUEMING\n"
@@ -2578,7 +2578,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02012",
+			"name": "ssf-ingame-02012",
 			"version": 2,
 			"title": {
 				"en": "EAR FUN default"
@@ -2587,7 +2587,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tEAR FUN\n"
@@ -2614,7 +2614,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02014",
+			"name": "ssf-ingame-02014",
 			"version": 2,
 			"title": {
 				"en": "7°CN default"
@@ -2623,7 +2623,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\t7°CN\n"
@@ -2650,7 +2650,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02015",
+			"name": "ssf-ingame-02015",
 			"version": 2,
 			"title": {
 				"en": "WANTED default"
@@ -2659,7 +2659,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tWANTED\n"
@@ -2686,7 +2686,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-02020",
+			"name": "ssf-ingame-02020",
 			"version": 2,
 			"title": {
 				"en": "EUPHORIA default"
@@ -2695,7 +2695,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tEUPHORIA\n"
@@ -2722,7 +2722,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-09001",
+			"name": "ssf-ingame-09001",
 			"version": 2,
 			"title": {
 				"en": "화답(和答)프로젝트 (Reply Project) Vol.1 default"
@@ -2731,7 +2731,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\t화답(和答)프로젝트 (Reply Project) Vol.1\n"
@@ -2758,7 +2758,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-09002",
+			"name": "ssf-ingame-09002",
 			"version": 2,
 			"title": {
 				"en": "어느 멋진 날 (One Fine Day) default"
@@ -2767,7 +2767,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\t어느 멋진 날 (One Fine Day)\n"
@@ -2794,7 +2794,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-09005",
+			"name": "ssf-ingame-09005",
 			"version": 2,
 			"title": {
 				"en": "별, 그대 (You, My Star) default"
@@ -2803,7 +2803,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\t별, 그대 (You, My Star)\n"
@@ -2830,7 +2830,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-09006",
+			"name": "ssf-ingame-09006",
 			"version": 2,
 			"title": {
 				"en": "처음 사랑하는 연인들을 위해 (부제: 반말송) (For First Time Lovers) default"
@@ -2839,7 +2839,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\t처음 사랑하는 연인들을 위해 (부제: 반말송) (For First Time Lovers)\n"
@@ -2866,7 +2866,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-09007",
+			"name": "ssf-ingame-09007",
 			"version": 2,
 			"title": {
 				"en": "YOUR CITY default"
@@ -2875,7 +2875,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tYOUR CITY\n"

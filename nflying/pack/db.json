@@ -11,7 +11,7 @@
 	},
 	"levels": [
 		{
-			"name": "ssp-hard-04001",
+			"name": "ssf-hard-04001",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -21,10 +21,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\t아 진짜요. (Oh really.)\nDuration:\t1:18.62\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t502\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\t아 진짜요. (Oh really.)\nDuration:\t1:18.62\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t502\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -32,7 +32,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04001"
+				"item": "ssf-ingame-04001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -62,7 +62,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04002",
+			"name": "ssf-hard-04002",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -72,10 +72,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\tFLOWER FANTASY\nDuration:\t1:43.75\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t463\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\tFLOWER FANTASY\nDuration:\t1:43.75\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t463\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -83,7 +83,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04001"
+				"item": "ssf-ingame-04001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -113,7 +113,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04003",
+			"name": "ssf-hard-04003",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -123,10 +123,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\t꽃바람 (YOUTH)\nDuration:\t1:46.12\nBPM:\t\t121\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t620\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\t꽃바람 (YOUTH)\nDuration:\t1:46.12\nBPM:\t\t121\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t620\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -134,7 +134,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04001"
+				"item": "ssf-ingame-04001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -164,7 +164,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04004",
+			"name": "ssf-hard-04004",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -174,10 +174,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\t아무거나 (I'M GONNA)\nDuration:\t1:28.94\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t450\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\t아무거나 (I'M GONNA)\nDuration:\t1:28.94\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t450\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -185,7 +185,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04001"
+				"item": "ssf-ingame-04001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -215,7 +215,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04005",
+			"name": "ssf-hard-04005",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -225,10 +225,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\tE-YO\nDuration:\t1:56.25\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t636\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\tE-YO\nDuration:\t1:56.25\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t636\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -236,7 +236,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04001"
+				"item": "ssf-ingame-04001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -266,7 +266,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04006",
+			"name": "ssf-hard-04006",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -276,10 +276,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\tMoonshot\nDuration:\t2:03.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t836\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\tMoonshot\nDuration:\t2:03.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t836\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -287,7 +287,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04006"
+				"item": "ssf-ingame-04006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -317,7 +317,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04007",
+			"name": "ssf-hard-04007",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -327,10 +327,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\t이 별 저 별 (Fate)\nDuration:\t1:38.89\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t524\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\t이 별 저 별 (Fate)\nDuration:\t1:38.89\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t524\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -338,7 +338,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04006"
+				"item": "ssf-ingame-04006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -368,7 +368,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04008",
+			"name": "ssf-hard-04008",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -378,10 +378,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\t지우개 (Undo)\nDuration:\t1:43.34\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t500\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\t지우개 (Undo)\nDuration:\t1:43.34\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t500\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -389,7 +389,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04006"
+				"item": "ssf-ingame-04006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -419,7 +419,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04009",
+			"name": "ssf-hard-04009",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -429,10 +429,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\tYou\nDuration:\t1:29.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t558\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\tYou\nDuration:\t1:29.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t558\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -440,7 +440,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04006"
+				"item": "ssf-ingame-04006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -470,7 +470,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04010",
+			"name": "ssf-hard-04010",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -480,10 +480,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\tFlashback\nDuration:\t1:39.76\nBPM:\t\t83\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t377\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\tFlashback\nDuration:\t1:39.76\nBPM:\t\t83\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t377\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -491,7 +491,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04006"
+				"item": "ssf-ingame-04006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -521,7 +521,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04011",
+			"name": "ssf-hard-04011",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -531,10 +531,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\tSober\nDuration:\t1:24.62\nBPM:\t\t117\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t404\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\tSober\nDuration:\t1:24.62\nBPM:\t\t117\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t404\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -542,7 +542,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04011"
+				"item": "ssf-ingame-04011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -572,7 +572,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04012",
+			"name": "ssf-hard-04012",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -582,10 +582,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\tAsk\nDuration:\t1:26.86\nBPM:\t\t86\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t391\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tMan on the Moon\nTitle:\t\t\tAsk\nDuration:\t1:26.86\nBPM:\t\t86\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t391\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -593,7 +593,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04006"
+				"item": "ssf-ingame-04006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -623,7 +623,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04013",
+			"name": "ssf-hard-04013",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -633,10 +633,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\t피었습니다. (Into Bloom)\nDuration:\t1:18.71\nBPM:\t\t93\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t340\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\t피었습니다. (Into Bloom)\nDuration:\t1:18.71\nBPM:\t\t93\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t340\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -644,7 +644,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04011"
+				"item": "ssf-ingame-04011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -674,7 +674,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04014",
+			"name": "ssf-hard-04014",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -684,10 +684,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\t빈집 (Zip.)\nDuration:\t1:22.79\nBPM:\t\t158\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t365\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\t빈집 (Zip.)\nDuration:\t1:22.79\nBPM:\t\t158\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t365\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -695,7 +695,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04011"
+				"item": "ssf-ingame-04011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -725,7 +725,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04015",
+			"name": "ssf-hard-04015",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -735,10 +735,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\tVideo Therapy\nDuration:\t1:12.00\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t397\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\tVideo Therapy\nDuration:\t1:12.00\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t397\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -746,7 +746,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04011"
+				"item": "ssf-ingame-04011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -776,7 +776,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04016",
+			"name": "ssf-hard-04016",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -786,10 +786,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\t폭망 (I Like You)\nDuration:\t1:39.60\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t576\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\t폭망 (I Like You)\nDuration:\t1:39.60\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t576\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -797,7 +797,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04016"
+				"item": "ssf-ingame-04016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -827,7 +827,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04017",
+			"name": "ssf-hard-04017",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -837,10 +837,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\t폭망 (I Like You) [Verse 2]\nDuration:\t1:25.20\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t434\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\t폭망 (I Like You) [Verse 2]\nDuration:\t1:25.20\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t434\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -848,7 +848,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04016"
+				"item": "ssf-ingame-04016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -878,7 +878,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04018",
+			"name": "ssf-hard-04018",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -888,10 +888,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\t그 밤 (The Night)\nDuration:\t1:47.14\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t484\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\t그 밤 (The Night)\nDuration:\t1:47.14\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t484\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -899,7 +899,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04016"
+				"item": "ssf-ingame-04016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -929,7 +929,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04019",
+			"name": "ssf-hard-04019",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -939,10 +939,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\tShooting Star\nDuration:\t1:27.49\nBPM:\t\t155\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t477\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\tShooting Star\nDuration:\t1:27.49\nBPM:\t\t155\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t477\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -950,7 +950,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04016"
+				"item": "ssf-ingame-04016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -980,7 +980,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04020",
+			"name": "ssf-hard-04020",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -990,10 +990,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\tMonster\nDuration:\t1:37.61\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t674\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\tMonster\nDuration:\t1:37.61\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t674\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1001,7 +1001,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04016"
+				"item": "ssf-ingame-04016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1031,7 +1031,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04021",
+			"name": "ssf-hard-04021",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1041,10 +1041,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\tFirefly\nDuration:\t1:32.48\nBPM:\t\t97\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t452\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\tFirefly\nDuration:\t1:32.48\nBPM:\t\t97\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t452\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1052,7 +1052,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04016"
+				"item": "ssf-ingame-04016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1082,7 +1082,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04022",
+			"name": "ssf-hard-04022",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1092,10 +1092,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\t그 밤 (The Night) [Verse 2]\nDuration:\t1:44.36\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t480\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tDearest\nTitle:\t\t\t그 밤 (The Night) [Verse 2]\nDuration:\t1:44.36\nBPM:\t\t140\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t480\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1103,7 +1103,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04016"
+				"item": "ssf-ingame-04016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1133,7 +1133,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04023",
+			"name": "ssf-hard-04023",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1143,10 +1143,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\t피었습니다. (Into Bloom) [Verse 2]\nDuration:\t1:20.00\nBPM:\t\t93\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t385\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\t피었습니다. (Into Bloom) [Verse 2]\nDuration:\t1:20.00\nBPM:\t\t93\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t385\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1154,7 +1154,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04011"
+				"item": "ssf-ingame-04011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1184,7 +1184,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04024",
+			"name": "ssf-hard-04024",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1194,10 +1194,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\tE-YO [Verse 2]\nDuration:\t1:38.75\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t535\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tSo, 通 (소통)\nTitle:\t\t\tE-YO [Verse 2]\nDuration:\t1:38.75\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t535\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1205,7 +1205,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04001"
+				"item": "ssf-ingame-04001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1235,7 +1235,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04025",
+			"name": "ssf-hard-04025",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1245,10 +1245,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\tShooting Star [Verse 2]\nDuration:\t1:13.55\nBPM:\t\t155\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t410\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tTURBULENCE\nTitle:\t\t\tShooting Star [Verse 2]\nDuration:\t1:13.55\nBPM:\t\t155\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t410\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1256,7 +1256,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04011"
+				"item": "ssf-ingame-04011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1286,7 +1286,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04026",
+			"name": "ssf-hard-04026",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1296,10 +1296,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tOnce in a BLUE MOON\nTitle:\t\t\tBlue Moon\nDuration:\t1:37.15\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t545\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tOnce in a BLUE MOON\nTitle:\t\t\tBlue Moon\nDuration:\t1:37.15\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t545\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1307,7 +1307,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04026"
+				"item": "ssf-ingame-04026"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1337,7 +1337,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04027",
+			"name": "ssf-hard-04027",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1347,10 +1347,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tOnce in a BLUE MOON\nTitle:\t\t\tTREE\nDuration:\t1:30.88\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t356\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tOnce in a BLUE MOON\nTitle:\t\t\tTREE\nDuration:\t1:30.88\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t356\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1358,7 +1358,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04026"
+				"item": "ssf-ingame-04026"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1388,7 +1388,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-04028",
+			"name": "ssf-hard-04028",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1398,10 +1398,10 @@
 				"en": "N.Flying"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tOnce in a BLUE MOON\nTitle:\t\t\tBlue Moon [Verse 2]\nDuration:\t1:21.15\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t465\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying\nAlbum:\t\tOnce in a BLUE MOON\nTitle:\t\t\tBlue Moon [Verse 2]\nDuration:\t1:21.15\nBPM:\t\t105\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t465\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1409,7 +1409,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-04026"
+				"item": "ssf-ingame-04026"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1439,7 +1439,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05001",
+			"name": "ssf-hard-05001",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1449,10 +1449,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tFLY HIGH PROJECT #2 '옥탑방'\nTitle:\t\t\t옥탑방 (Rooftop)\nDuration:\t1:42.06\nBPM:\t\t97\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t560\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tFLY HIGH PROJECT #2 '옥탑방'\nTitle:\t\t\t옥탑방 (Rooftop)\nDuration:\t1:42.06\nBPM:\t\t97\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t560\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1460,7 +1460,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05001"
+				"item": "ssf-ingame-05001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1490,7 +1490,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05002",
+			"name": "ssf-hard-05002",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1500,10 +1500,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tAwesome\nTitle:\t\t\t기가 막혀 (Awesome)\nDuration:\t1:40.19\nBPM:\t\t109\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t630\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tAwesome\nTitle:\t\t\t기가 막혀 (Awesome)\nDuration:\t1:40.19\nBPM:\t\t109\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t630\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1511,7 +1511,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05002"
+				"item": "ssf-ingame-05002"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1541,7 +1541,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05003",
+			"name": "ssf-hard-05003",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1551,10 +1551,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE REAL : N.Flying\nTitle:\t\t\t진짜가 나타났다 (The Real)\nDuration:\t1:13.08\nBPM:\t\t133\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t461\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE REAL : N.Flying\nTitle:\t\t\t진짜가 나타났다 (The Real)\nDuration:\t1:13.08\nBPM:\t\t133\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t461\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1562,7 +1562,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05003"
+				"item": "ssf-ingame-05003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1592,7 +1592,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05004",
+			"name": "ssf-hard-05004",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1602,10 +1602,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE HOTTEST : N.Flying\nTitle:\t\t\t뜨거운 감자 (Hot Potato)\nDuration:\t1:20.25\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t525\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE HOTTEST : N.Flying\nTitle:\t\t\t뜨거운 감자 (Hot Potato)\nDuration:\t1:20.25\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t525\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1613,7 +1613,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05004"
+				"item": "ssf-ingame-05004"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1643,7 +1643,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05005",
+			"name": "ssf-hard-05005",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1653,10 +1653,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\t야호 (夜好)\nTitle:\t\t\t굿밤 (GOOD BAM)\nDuration:\t1:33.34\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t574\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\t야호 (夜好)\nTitle:\t\t\t굿밤 (GOOD BAM)\nDuration:\t1:33.34\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t574\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1664,7 +1664,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05005"
+				"item": "ssf-ingame-05005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1694,7 +1694,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05006",
+			"name": "ssf-hard-05006",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1704,10 +1704,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\t야호 (夜好)\nTitle:\t\t\tAutumn Dream\nDuration:\t1:49.41\nBPM:\t\t102\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t567\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\t야호 (夜好)\nTitle:\t\t\tAutumn Dream\nDuration:\t1:49.41\nBPM:\t\t102\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t567\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1715,7 +1715,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05005"
+				"item": "ssf-ingame-05005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1745,7 +1745,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05007",
+			"name": "ssf-hard-05007",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1755,10 +1755,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\t야호 (夜好)\nTitle:\t\t\tSunset\nDuration:\t1:21.20\nBPM:\t\t83.5\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t470\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\t야호 (夜好)\nTitle:\t\t\tSunset\nDuration:\t1:21.20\nBPM:\t\t83.5\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t470\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1766,7 +1766,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05005"
+				"item": "ssf-ingame-05005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1796,7 +1796,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05008",
+			"name": "ssf-hard-05008",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1806,10 +1806,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tBROTHERHOOD\nTitle:\t\t\tSongbird\nDuration:\t1:42.67\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t557\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tBROTHERHOOD\nTitle:\t\t\tSongbird\nDuration:\t1:42.67\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t557\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1817,7 +1817,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05008"
+				"item": "ssf-ingame-05008"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1847,7 +1847,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05009",
+			"name": "ssf-hard-05009",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1857,10 +1857,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE HOTTEST : N.Flying\nTitle:\t\t\t그러니까 우리 (Don't Forget This)\nDuration:\t1:33.12\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t553\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE HOTTEST : N.Flying\nTitle:\t\t\t그러니까 우리 (Don't Forget This)\nDuration:\t1:33.12\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t553\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1868,7 +1868,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05004"
+				"item": "ssf-ingame-05004"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1898,7 +1898,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05010",
+			"name": "ssf-hard-05010",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1908,10 +1908,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tFLY HIGH PROJECT #2 '옥탑방'\nTitle:\t\t\tWINTER WINTER\nDuration:\t1:30.83\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t494\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tFLY HIGH PROJECT #2 '옥탑방'\nTitle:\t\t\tWINTER WINTER\nDuration:\t1:30.83\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t494\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1919,7 +1919,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05001"
+				"item": "ssf-ingame-05001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1949,7 +1949,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05011",
+			"name": "ssf-hard-05011",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1959,10 +1959,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tSpring Memories\nTitle:\t\t\t봄이 부시게 (Spring Memories)\nDuration:\t1:33.34\nBPM:\t\t135\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t545\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tSpring Memories\nTitle:\t\t\t봄이 부시게 (Spring Memories)\nDuration:\t1:33.34\nBPM:\t\t135\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t545\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1970,7 +1970,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05011"
+				"item": "ssf-ingame-05011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2000,7 +2000,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05012",
+			"name": "ssf-hard-05012",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2010,10 +2010,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tSpring Memories\nTitle:\t\t\t꽃 (Like A Flower)\nDuration:\t1:40.31\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t503\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tSpring Memories\nTitle:\t\t\t꽃 (Like A Flower)\nDuration:\t1:40.31\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t503\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2021,7 +2021,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05011"
+				"item": "ssf-ingame-05011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2051,7 +2051,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05013",
+			"name": "ssf-hard-05013",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2061,10 +2061,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tBROTHERHOOD\nTitle:\t\t\tStand By Me\nDuration:\t1:56.84\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t790\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tBROTHERHOOD\nTitle:\t\t\tStand By Me\nDuration:\t1:56.84\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t790\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2072,7 +2072,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05008"
+				"item": "ssf-ingame-05008"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2102,7 +2102,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05014",
+			"name": "ssf-hard-05014",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2112,10 +2112,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tSpring Memories\nTitle:\t\t\t놔 (Leave It)\nDuration:\t1:14.06\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t406\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tSpring Memories\nTitle:\t\t\t놔 (Leave It)\nDuration:\t1:14.06\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t406\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2123,7 +2123,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05011"
+				"item": "ssf-ingame-05011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2153,7 +2153,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05015",
+			"name": "ssf-hard-05015",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2163,10 +2163,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE REAL : N.Flying\nTitle:\t\t\tR U READY?\nDuration:\t1:52.86\nBPM:\t\t126\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t683\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE REAL : N.Flying\nTitle:\t\t\tR U READY?\nDuration:\t1:52.86\nBPM:\t\t126\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t683\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2174,7 +2174,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05003"
+				"item": "ssf-ingame-05003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2204,7 +2204,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05016",
+			"name": "ssf-hard-05016",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2214,10 +2214,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tSpring Memories\nTitle:\t\t\tPreview\nDuration:\t1:45.65\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t637\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tSpring Memories\nTitle:\t\t\tPreview\nDuration:\t1:45.65\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t637\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2225,7 +2225,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05011"
+				"item": "ssf-ingame-05011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2255,7 +2255,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05017",
+			"name": "ssf-hard-05017",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2265,10 +2265,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tSpring Memories\nTitle:\t\t\t불놀이 (Flowerwork)\nDuration:\t1:23.29\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t501\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tSpring Memories\nTitle:\t\t\t불놀이 (Flowerwork)\nDuration:\t1:23.29\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t501\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2276,7 +2276,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05011"
+				"item": "ssf-ingame-05011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2306,7 +2306,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05018",
+			"name": "ssf-hard-05018",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2316,10 +2316,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE HOTTEST : N.Flying\nTitle:\t\t\t골목길에서 (Crossroad)\nDuration:\t1:53.75\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t639\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE HOTTEST : N.Flying\nTitle:\t\t\t골목길에서 (Crossroad)\nDuration:\t1:53.75\nBPM:\t\t96\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t639\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2327,7 +2327,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05004"
+				"item": "ssf-ingame-05004"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2357,7 +2357,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05019",
+			"name": "ssf-hard-05019",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2367,10 +2367,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE HOTTEST : N.Flying\nTitle:\t\t\t뜨거운 감자 (Hot Potato) [Verse 2]\nDuration:\t1:05.25\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t437\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE HOTTEST : N.Flying\nTitle:\t\t\t뜨거운 감자 (Hot Potato) [Verse 2]\nDuration:\t1:05.25\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t437\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2378,7 +2378,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05004"
+				"item": "ssf-ingame-05004"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2408,7 +2408,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05020",
+			"name": "ssf-hard-05020",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2418,10 +2418,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE REAL : N.Flying\nTitle:\t\t\t정리가 안돼 (Don't Mess With Me)\nDuration:\t1:38.77\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t666\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE REAL : N.Flying\nTitle:\t\t\t정리가 안돼 (Don't Mess With Me)\nDuration:\t1:38.77\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t666\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2429,7 +2429,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05003"
+				"item": "ssf-ingame-05003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2459,7 +2459,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05021",
+			"name": "ssf-hard-05021",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2469,10 +2469,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\t야호 (夜好)\nTitle:\t\t\tㅈㅅ (Pardon?)\nDuration:\t1:21.93\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t740\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\t야호 (夜好)\nTitle:\t\t\tㅈㅅ (Pardon?)\nDuration:\t1:21.93\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t740\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2480,7 +2480,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05005"
+				"item": "ssf-ingame-05005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2510,7 +2510,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05022",
+			"name": "ssf-hard-05022",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2520,10 +2520,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tBROTHERHOOD\nTitle:\t\t\tStand By Me [Verse 2]\nDuration:\t1:29.69\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t623\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tBROTHERHOOD\nTitle:\t\t\tStand By Me [Verse 2]\nDuration:\t1:29.69\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t623\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2531,7 +2531,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05008"
+				"item": "ssf-ingame-05008"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2561,7 +2561,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05023",
+			"name": "ssf-hard-05023",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2571,10 +2571,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE REAL : N.Flying\nTitle:\t\t\t진짜가 나타났다 (The Real) [Verse 2]\nDuration:\t1:09.48\nBPM:\t\t133\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t422\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tTHE REAL : N.Flying\nTitle:\t\t\t진짜가 나타났다 (The Real) [Verse 2]\nDuration:\t1:09.48\nBPM:\t\t133\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t422\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2582,7 +2582,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05003"
+				"item": "ssf-ingame-05003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2612,7 +2612,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-05024",
+			"name": "ssf-hard-05024",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2622,10 +2622,10 @@
 				"en": "N.Flying (Rooftop)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tFLY HIGH PROJECT #2 '옥탑방'\nTitle:\t\t\tWINTER WINTER [Verse 2]\nDuration:\t1:32.50\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t452\n"
+				"en": "\n### Music ###\nArtist:\t\tN.Flying (Rooftop)\nAlbum:\t\tFLY HIGH PROJECT #2 '옥탑방'\nTitle:\t\t\tWINTER WINTER [Verse 2]\nDuration:\t1:32.50\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t452\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2633,7 +2633,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-05001"
+				"item": "ssf-ingame-05001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2663,7 +2663,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-12001",
+			"name": "ssf-hard-12001",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2673,10 +2673,10 @@
 				"en": "Lee Seung Hyub (J.DON)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLee Seung Hyub (J.DON)\nAlbum:\t\tON THE TRACK\nTitle:\t\t\t클리커 (Clicker)\nDuration:\t1:28.47\nBPM:\t\t137\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t554\n"
+				"en": "\n### Music ###\nArtist:\t\tLee Seung Hyub (J.DON)\nAlbum:\t\tON THE TRACK\nTitle:\t\t\t클리커 (Clicker)\nDuration:\t1:28.47\nBPM:\t\t137\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t554\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2684,7 +2684,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-12001"
+				"item": "ssf-ingame-12001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2714,7 +2714,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-12002",
+			"name": "ssf-hard-12002",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2724,10 +2724,10 @@
 				"en": "Lee Seung Hyub (J.DON)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLee Seung Hyub (J.DON)\nAlbum:\t\tON THE TRACK\nTitle:\t\t\tSuperstar (feat. CHEEZE)\nDuration:\t1:31.84\nBPM:\t\t98\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t484\n"
+				"en": "\n### Music ###\nArtist:\t\tLee Seung Hyub (J.DON)\nAlbum:\t\tON THE TRACK\nTitle:\t\t\tSuperstar (feat. CHEEZE)\nDuration:\t1:31.84\nBPM:\t\t98\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t484\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2735,7 +2735,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-12001"
+				"item": "ssf-ingame-12001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2765,7 +2765,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-12003",
+			"name": "ssf-hard-12003",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2775,10 +2775,10 @@
 				"en": "Lee Seung Hyub (J.DON)"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLee Seung Hyub (J.DON)\nAlbum:\t\tON THE TRACK\nTitle:\t\t\tMoon & Cheese\nDuration:\t1:41.13\nBPM:\t\t89\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t543\n"
+				"en": "\n### Music ###\nArtist:\t\tLee Seung Hyub (J.DON)\nAlbum:\t\tON THE TRACK\nTitle:\t\t\tMoon & Cheese\nDuration:\t1:41.13\nBPM:\t\t89\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t543\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2786,7 +2786,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-12001"
+				"item": "ssf-ingame-12001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2851,7 +2851,7 @@
 	],
 	"backgrounds": [
 		{
-			"name": "ssp-ingame-04001",
+			"name": "ssf-ingame-04001",
 			"version": 2,
 			"title": {
 				"en": "So, 通 (소통) default"
@@ -2860,7 +2860,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tSo, 通 (소통)\n"
@@ -2887,7 +2887,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-04006",
+			"name": "ssf-ingame-04006",
 			"version": 2,
 			"title": {
 				"en": "Man on the Moon default"
@@ -2896,7 +2896,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tMan on the Moon\n"
@@ -2923,7 +2923,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-04011",
+			"name": "ssf-ingame-04011",
 			"version": 2,
 			"title": {
 				"en": "TURBULENCE default"
@@ -2932,7 +2932,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tTURBULENCE\n"
@@ -2959,7 +2959,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-04016",
+			"name": "ssf-ingame-04016",
 			"version": 2,
 			"title": {
 				"en": "Dearest default"
@@ -2968,7 +2968,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tDearest\n"
@@ -2995,7 +2995,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-04026",
+			"name": "ssf-ingame-04026",
 			"version": 2,
 			"title": {
 				"en": "Once in a BLUE MOON default"
@@ -3004,7 +3004,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tOnce in a BLUE MOON\n"
@@ -3031,7 +3031,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-05001",
+			"name": "ssf-ingame-05001",
 			"version": 2,
 			"title": {
 				"en": "FLY HIGH PROJECT #2 '옥탑방' default"
@@ -3040,7 +3040,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tFLY HIGH PROJECT #2 '옥탑방'\n"
@@ -3067,7 +3067,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-05002",
+			"name": "ssf-ingame-05002",
 			"version": 2,
 			"title": {
 				"en": "Awesome default"
@@ -3076,7 +3076,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tAwesome\n"
@@ -3103,7 +3103,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-05003",
+			"name": "ssf-ingame-05003",
 			"version": 2,
 			"title": {
 				"en": "THE REAL : N.Flying default"
@@ -3112,7 +3112,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tTHE REAL : N.Flying\n"
@@ -3139,7 +3139,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-05004",
+			"name": "ssf-ingame-05004",
 			"version": 2,
 			"title": {
 				"en": "THE HOTTEST : N.Flying default"
@@ -3148,7 +3148,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tTHE HOTTEST : N.Flying\n"
@@ -3175,7 +3175,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-05005",
+			"name": "ssf-ingame-05005",
 			"version": 2,
 			"title": {
 				"en": "야호 (夜好) default"
@@ -3184,7 +3184,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\t야호 (夜好)\n"
@@ -3211,7 +3211,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-05008",
+			"name": "ssf-ingame-05008",
 			"version": 2,
 			"title": {
 				"en": "BROTHERHOOD default"
@@ -3220,7 +3220,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tBROTHERHOOD\n"
@@ -3247,7 +3247,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-05011",
+			"name": "ssf-ingame-05011",
 			"version": 2,
 			"title": {
 				"en": "Spring Memories default"
@@ -3256,7 +3256,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tSpring Memories\n"
@@ -3283,7 +3283,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-12001",
+			"name": "ssf-ingame-12001",
 			"version": 2,
 			"title": {
 				"en": "ON THE TRACK default"
@@ -3292,7 +3292,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tON THE TRACK\n"

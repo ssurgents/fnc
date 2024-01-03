@@ -11,7 +11,7 @@
 	},
 	"levels": [
 		{
-			"name": "ssp-hard-01001",
+			"name": "ssf-hard-01001",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -21,10 +21,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tGrown-Up\nTitle:\t\t\t지독하게 (Severely)\nDuration:\t1:45.64\nBPM:\t\t142\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t490\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tGrown-Up\nTitle:\t\t\t지독하게 (Severely)\nDuration:\t1:45.64\nBPM:\t\t142\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t490\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -32,7 +32,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01001"
+				"item": "ssf-ingame-01001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -62,7 +62,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01002",
+			"name": "ssf-hard-01002",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -72,10 +72,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tCheerful Sensibility\nTitle:\t\t\t사랑앓이 (Love Sick)\nDuration:\t1:37.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t437\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tCheerful Sensibility\nTitle:\t\t\t사랑앓이 (Love Sick)\nDuration:\t1:37.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t437\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -83,7 +83,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01002"
+				"item": "ssf-ingame-01002"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -113,7 +113,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01003",
+			"name": "ssf-hard-01003",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -123,10 +123,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tColorful Sensibility\nTitle:\t\t\t여자는 몰라 (She Doesn't Know)\nDuration:\t1:48.83\nBPM:\t\t102\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t523\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tColorful Sensibility\nTitle:\t\t\t여자는 몰라 (She Doesn't Know)\nDuration:\t1:48.83\nBPM:\t\t102\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t523\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -134,7 +134,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01003"
+				"item": "ssf-ingame-01003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -164,7 +164,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01004",
+			"name": "ssf-hard-01004",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -174,10 +174,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tFIVE TREASURE BOX\nTitle:\t\t\t좋겠어 (I wish)\nDuration:\t1:24.55\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t528\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tFIVE TREASURE BOX\nTitle:\t\t\t좋겠어 (I wish)\nDuration:\t1:24.55\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t528\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -185,7 +185,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01004"
+				"item": "ssf-ingame-01004"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -215,7 +215,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01005",
+			"name": "ssf-hard-01005",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -225,10 +225,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tI WILL\nTitle:\t\t\tPRAY\nDuration:\t1:38.62\nBPM:\t\t174\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t830\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tI WILL\nTitle:\t\t\tPRAY\nDuration:\t1:38.62\nBPM:\t\t174\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t830\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -236,7 +236,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01005"
+				"item": "ssf-ingame-01005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -266,7 +266,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01006",
+			"name": "ssf-hard-01006",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -276,10 +276,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tZAPPING\nTitle:\t\t\t관둬 (Quit)\nDuration:\t1:35.17\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t541\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tZAPPING\nTitle:\t\t\t관둬 (Quit)\nDuration:\t1:35.17\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t541\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -287,7 +287,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01006"
+				"item": "ssf-ingame-01006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -317,7 +317,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01007",
+			"name": "ssf-hard-01007",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -327,10 +327,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tReturn\nTitle:\t\t\tHello Hello\nDuration:\t1:20.40\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t396\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tReturn\nTitle:\t\t\tHello Hello\nDuration:\t1:20.40\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t396\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -338,7 +338,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01007"
+				"item": "ssf-ingame-01007"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -368,7 +368,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01008",
+			"name": "ssf-hard-01008",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -378,10 +378,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tFlower Rock\nTitle:\t\t\tFlower Rock\nDuration:\t1:35.25\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t728\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tFlower Rock\nTitle:\t\t\tFlower Rock\nDuration:\t1:35.25\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t728\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -389,7 +389,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01008"
+				"item": "ssf-ingame-01008"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -419,7 +419,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01009",
+			"name": "ssf-hard-01009",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -429,10 +429,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tTHE MOOD\nTitle:\t\t\t미치도록 (Madly)\nDuration:\t1:52.06\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t419\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tTHE MOOD\nTitle:\t\t\t미치도록 (Madly)\nDuration:\t1:52.06\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t419\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -440,7 +440,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01009"
+				"item": "ssf-ingame-01009"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -470,7 +470,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01010",
+			"name": "ssf-hard-01010",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -480,10 +480,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tColorful Sensibility\nTitle:\t\t\t멋쟁이 Vs 예쁜이 (Cool vs. Pretty) (FT Vs Pri)\nDuration:\t1:58.45\nBPM:\t\t155\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t717\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tColorful Sensibility\nTitle:\t\t\t멋쟁이 Vs 예쁜이 (Cool vs. Pretty) (FT Vs Pri)\nDuration:\t1:58.45\nBPM:\t\t155\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t717\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -491,7 +491,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01003"
+				"item": "ssf-ingame-01003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -521,7 +521,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01011",
+			"name": "ssf-hard-01011",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -531,10 +531,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWHAT IF\nTitle:\t\t\t여름밤의 꿈 (Summer Night Dream)\nDuration:\t1:30.21\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t546\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWHAT IF\nTitle:\t\t\t여름밤의 꿈 (Summer Night Dream)\nDuration:\t1:30.21\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t546\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -542,7 +542,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01011"
+				"item": "ssf-ingame-01011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -572,7 +572,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01012",
+			"name": "ssf-hard-01012",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -582,10 +582,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWHAT IF\nTitle:\t\t\tFade Out (Feat. 유나 of AOA)\nDuration:\t1:17.63\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t315\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWHAT IF\nTitle:\t\t\tFade Out (Feat. 유나 of AOA)\nDuration:\t1:17.63\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t315\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -593,7 +593,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01011"
+				"item": "ssf-ingame-01011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -623,7 +623,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01013",
+			"name": "ssf-hard-01013",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -633,10 +633,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\t말이 안 돼 (Unthinkable)\nDuration:\t2:02.50\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t625\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\t말이 안 돼 (Unthinkable)\nDuration:\t2:02.50\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t625\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -644,7 +644,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01013"
+				"item": "ssf-ingame-01013"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -674,7 +674,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01014",
+			"name": "ssf-hard-01014",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -684,10 +684,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\tBeautiful\nDuration:\t1:27.39\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t387\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\tBeautiful\nDuration:\t1:27.39\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t387\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -695,7 +695,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01013"
+				"item": "ssf-ingame-01013"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -725,7 +725,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01015",
+			"name": "ssf-hard-01015",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -735,10 +735,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\tSet Me Free\nDuration:\t1:24.75\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t459\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\tSet Me Free\nDuration:\t1:24.75\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t459\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -746,7 +746,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01013"
+				"item": "ssf-ingame-01013"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -776,7 +776,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01016",
+			"name": "ssf-hard-01016",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -786,10 +786,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWhere's the truth?\nTitle:\t\t\tWonderful Life\nDuration:\t1:40.17\nBPM:\t\t121\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t557\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWhere's the truth?\nTitle:\t\t\tWonderful Life\nDuration:\t1:40.17\nBPM:\t\t121\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t557\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -797,7 +797,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01016"
+				"item": "ssf-ingame-01016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -827,7 +827,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01017",
+			"name": "ssf-hard-01017",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -837,10 +837,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tNew Page\nTitle:\t\t\t未体験Future\nDuration:\t1:42.73\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t636\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tNew Page\nTitle:\t\t\t未体験Future\nDuration:\t1:42.73\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t636\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -848,7 +848,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01017"
+				"item": "ssf-ingame-01017"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -878,7 +878,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01018",
+			"name": "ssf-hard-01018",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -888,10 +888,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWhere's the truth?\nTitle:\t\t\tLose\nDuration:\t1:37.41\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t459\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWhere's the truth?\nTitle:\t\t\tLose\nDuration:\t1:37.41\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t459\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -899,7 +899,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01016"
+				"item": "ssf-ingame-01016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -929,7 +929,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01019",
+			"name": "ssf-hard-01019",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -939,10 +939,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\t말이 안 돼 (Unthinkable) [Verse 2]\nDuration:\t1:18.33\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t379\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\t말이 안 돼 (Unthinkable) [Verse 2]\nDuration:\t1:18.33\nBPM:\t\t144\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t379\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -950,7 +950,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01013"
+				"item": "ssf-ingame-01013"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -980,7 +980,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01020",
+			"name": "ssf-hard-01020",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -990,10 +990,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tI WILL\nTitle:\t\t\tPRAY [Verse 2]\nDuration:\t1:38.62\nBPM:\t\t174\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t950\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tI WILL\nTitle:\t\t\tPRAY [Verse 2]\nDuration:\t1:38.62\nBPM:\t\t174\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t950\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1001,7 +1001,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01005"
+				"item": "ssf-ingame-01005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1031,7 +1031,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01021",
+			"name": "ssf-hard-01021",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1041,10 +1041,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\t뻔한 스토리 (Obvious)\nDuration:\t1:34.08\nBPM:\t\t162\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t500\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\t뻔한 스토리 (Obvious)\nDuration:\t1:34.08\nBPM:\t\t162\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t500\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1052,7 +1052,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01013"
+				"item": "ssf-ingame-01013"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1082,7 +1082,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01022",
+			"name": "ssf-hard-01022",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1092,10 +1092,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\tBones\nDuration:\t1:26.61\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t506\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\tBones\nDuration:\t1:26.61\nBPM:\t\t115\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t506\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1103,7 +1103,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01013"
+				"item": "ssf-ingame-01013"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1133,7 +1133,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01023",
+			"name": "ssf-hard-01023",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1143,10 +1143,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWHAT IF\nTitle:\t\t\tWho I Am\nDuration:\t1:38.88\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t374\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWHAT IF\nTitle:\t\t\tWho I Am\nDuration:\t1:38.88\nBPM:\t\t125\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t374\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1154,7 +1154,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01011"
+				"item": "ssf-ingame-01011"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1184,7 +1184,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01024",
+			"name": "ssf-hard-01024",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1194,10 +1194,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tZAPPING\nTitle:\t\t\tDon't Lose Yourself\nDuration:\t1:46.21\nBPM:\t\t87\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t500\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tZAPPING\nTitle:\t\t\tDon't Lose Yourself\nDuration:\t1:46.21\nBPM:\t\t87\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t500\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1205,7 +1205,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01006"
+				"item": "ssf-ingame-01006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1235,7 +1235,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01025",
+			"name": "ssf-hard-01025",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1245,10 +1245,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\tBeautiful [Verse 2]\nDuration:\t1:28.70\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t448\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tLOCK UP\nTitle:\t\t\tBeautiful [Verse 2]\nDuration:\t1:28.70\nBPM:\t\t92\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t448\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1256,7 +1256,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01013"
+				"item": "ssf-ingame-01013"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1286,7 +1286,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01026",
+			"name": "ssf-hard-01026",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1296,10 +1296,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tNew Page\nTitle:\t\t\t未体験Future [Verse 2]\nDuration:\t1:31.82\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t614\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tNew Page\nTitle:\t\t\t未体験Future [Verse 2]\nDuration:\t1:31.82\nBPM:\t\t132\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t614\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1307,7 +1307,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01017"
+				"item": "ssf-ingame-01017"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1337,7 +1337,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01027",
+			"name": "ssf-hard-01027",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1347,10 +1347,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWhere's the truth?\nTitle:\t\t\tTake Me Now\nDuration:\t2:03.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t870\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWhere's the truth?\nTitle:\t\t\tTake Me Now\nDuration:\t2:03.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t870\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1358,7 +1358,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01016"
+				"item": "ssf-ingame-01016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1388,7 +1388,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01028",
+			"name": "ssf-hard-01028",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1398,10 +1398,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWhere's the truth?\nTitle:\t\t\tWonderful Life [Verse 2]\nDuration:\t1:34.22\nBPM:\t\t121\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t502\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tWhere's the truth?\nTitle:\t\t\tWonderful Life [Verse 2]\nDuration:\t1:34.22\nBPM:\t\t121\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t502\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1409,7 +1409,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01016"
+				"item": "ssf-ingame-01016"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1439,7 +1439,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01029",
+			"name": "ssf-hard-01029",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1449,10 +1449,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tZAPPING\nTitle:\t\t\t신기루 (No Regret)\nDuration:\t1:20.89\nBPM:\t\t135\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t454\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tZAPPING\nTitle:\t\t\t신기루 (No Regret)\nDuration:\t1:20.89\nBPM:\t\t135\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t454\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1460,7 +1460,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01006"
+				"item": "ssf-ingame-01006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1490,7 +1490,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01030",
+			"name": "ssf-hard-01030",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1500,10 +1500,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tCheerful Sensibility\nTitle:\t\t\tBecause I Don’t Know How to Love\nDuration:\t2:13.24\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t550\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tCheerful Sensibility\nTitle:\t\t\tBecause I Don’t Know How to Love\nDuration:\t2:13.24\nBPM:\t\t136\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t550\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1511,7 +1511,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01002"
+				"item": "ssf-ingame-01002"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1541,7 +1541,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01031",
+			"name": "ssf-hard-01031",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1551,10 +1551,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tColorful Sensibility\nTitle:\t\t\t사랑하지마요 (Don’t Love)\nDuration:\t1:54.78\nBPM:\t\t103.5\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t446\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tColorful Sensibility\nTitle:\t\t\t사랑하지마요 (Don’t Love)\nDuration:\t1:54.78\nBPM:\t\t103.5\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t446\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1562,7 +1562,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01003"
+				"item": "ssf-ingame-01003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1592,7 +1592,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01032",
+			"name": "ssf-hard-01032",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1602,10 +1602,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tCheerful Sensibility\nTitle:\t\t\t사랑앓이 (Love Sick) [Full]\nDuration:\t4:07.03\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t1381\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tCheerful Sensibility\nTitle:\t\t\t사랑앓이 (Love Sick) [Full]\nDuration:\t4:07.03\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t1381\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1613,7 +1613,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01002"
+				"item": "ssf-ingame-01002"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1643,7 +1643,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01033",
+			"name": "ssf-hard-01033",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1653,10 +1653,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tZAPPING\nTitle:\t\t\t관둬 (Quit) [Verse 2]\nDuration:\t1:46.76\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t607\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tZAPPING\nTitle:\t\t\t관둬 (Quit) [Verse 2]\nDuration:\t1:46.76\nBPM:\t\t145\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t607\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1664,7 +1664,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01006"
+				"item": "ssf-ingame-01006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1694,7 +1694,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01034",
+			"name": "ssf-hard-01034",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1704,10 +1704,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tZAPPING\nTitle:\t\t\t다시 바래 (Hope Again)\nDuration:\t1:35.43\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t454\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tZAPPING\nTitle:\t\t\t다시 바래 (Hope Again)\nDuration:\t1:35.43\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t454\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1715,7 +1715,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01006"
+				"item": "ssf-ingame-01006"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1745,7 +1745,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01035",
+			"name": "ssf-hard-01035",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1755,10 +1755,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tSage\nTitle:\t\t\tSage\nDuration:\t2:27.68\nBPM:\t\t122.7\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t725\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tSage\nTitle:\t\t\tSage\nDuration:\t2:27.68\nBPM:\t\t122.7\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t725\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1766,7 +1766,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01035"
+				"item": "ssf-ingame-01035"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1796,7 +1796,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01036",
+			"name": "ssf-hard-01036",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1806,10 +1806,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tSage\nTitle:\t\t\tBroken\nDuration:\t1:39.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t568\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tSage\nTitle:\t\t\tBroken\nDuration:\t1:39.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t568\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1817,7 +1817,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01035"
+				"item": "ssf-ingame-01035"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1847,7 +1847,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-01037",
+			"name": "ssf-hard-01037",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1857,10 +1857,10 @@
 				"en": "FTISLAND"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tSage\nTitle:\t\t\tSage [Verse 2]\nDuration:\t1:32.91\nBPM:\t\t122.7\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t455\n"
+				"en": "\n### Music ###\nArtist:\t\tFTISLAND\nAlbum:\t\tSage\nTitle:\t\t\tSage [Verse 2]\nDuration:\t1:32.91\nBPM:\t\t122.7\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t455\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1868,7 +1868,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-01035"
+				"item": "ssf-ingame-01035"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1898,7 +1898,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-08001",
+			"name": "ssf-hard-08001",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1908,10 +1908,10 @@
 				"en": "LEE HONG GI"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tDO n DO\nTitle:\t\t\tCOOKIES (Feat. 정일훈 of 비투비)\nDuration:\t1:25.56\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t482\n"
+				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tDO n DO\nTitle:\t\t\tCOOKIES (Feat. 정일훈 of 비투비)\nDuration:\t1:25.56\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t482\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1919,7 +1919,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-08001"
+				"item": "ssf-ingame-08001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1949,7 +1949,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-08002",
+			"name": "ssf-hard-08002",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1959,10 +1959,10 @@
 				"en": "LEE HONG GI"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tDO n DO\nTitle:\t\t\tGOOD NIGHT\nDuration:\t1:22.80\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t359\n"
+				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tDO n DO\nTitle:\t\t\tGOOD NIGHT\nDuration:\t1:22.80\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t359\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1970,7 +1970,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-08001"
+				"item": "ssf-ingame-08001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2000,7 +2000,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-08003",
+			"name": "ssf-hard-08003",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2010,10 +2010,10 @@
 				"en": "LEE HONG GI"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tFM302\nTitle:\t\t\t눈치 없이 (INSENSIBLE)\nDuration:\t1:35.49\nBPM:\t\t142\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t369\n"
+				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tFM302\nTitle:\t\t\t눈치 없이 (INSENSIBLE)\nDuration:\t1:35.49\nBPM:\t\t142\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t369\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2021,7 +2021,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-08003"
+				"item": "ssf-ingame-08003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2051,7 +2051,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-08004",
+			"name": "ssf-hard-08004",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2061,10 +2061,10 @@
 				"en": "LEE HONG GI"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tFM302\nTitle:\t\t\t비가 와요 (IN THE RAIN)\nDuration:\t2:16.94\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t441\n"
+				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tFM302\nTitle:\t\t\t비가 와요 (IN THE RAIN)\nDuration:\t2:16.94\nBPM:\t\t85\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t441\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2072,7 +2072,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-08003"
+				"item": "ssf-ingame-08003"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2102,7 +2102,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-08005",
+			"name": "ssf-hard-08005",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2112,10 +2112,10 @@
 				"en": "LEE HONG GI"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tStill love you\nTitle:\t\t\t사랑했었다 (Still love you)\nDuration:\t1:44.78\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t419\n"
+				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tStill love you\nTitle:\t\t\t사랑했었다 (Still love you)\nDuration:\t1:44.78\nBPM:\t\t134\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t419\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2123,7 +2123,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-08005"
+				"item": "ssf-ingame-08005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2153,7 +2153,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-08006",
+			"name": "ssf-hard-08006",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2163,10 +2163,10 @@
 				"en": "LEE HONG GI"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tDO n DO\nTitle:\t\t\tCOOKIES (Feat. 정일훈 of 비투비) [Verse 2]\nDuration:\t1:25.56\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t476\n"
+				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tDO n DO\nTitle:\t\t\tCOOKIES (Feat. 정일훈 of 비투비) [Verse 2]\nDuration:\t1:25.56\nBPM:\t\t108\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t476\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2174,7 +2174,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-08001"
+				"item": "ssf-ingame-08001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2204,7 +2204,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-08007",
+			"name": "ssf-hard-08007",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -2214,10 +2214,10 @@
 				"en": "LEE HONG GI"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tDO n DO\nTitle:\t\t\tGOOD NIGHT [Verse 2]\nDuration:\t1:34.80\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t439\n"
+				"en": "\n### Music ###\nArtist:\t\tLEE HONG GI\nAlbum:\t\tDO n DO\nTitle:\t\t\tGOOD NIGHT [Verse 2]\nDuration:\t1:34.80\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t439\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -2225,7 +2225,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-08001"
+				"item": "ssf-ingame-08001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -2290,7 +2290,7 @@
 	],
 	"backgrounds": [
 		{
-			"name": "ssp-ingame-01001",
+			"name": "ssf-ingame-01001",
 			"version": 2,
 			"title": {
 				"en": "Grown-Up default"
@@ -2299,7 +2299,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tGrown-Up\n"
@@ -2326,7 +2326,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01002",
+			"name": "ssf-ingame-01002",
 			"version": 2,
 			"title": {
 				"en": "Cheerful Sensibility default"
@@ -2335,7 +2335,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tCheerful Sensibility\n"
@@ -2362,7 +2362,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01003",
+			"name": "ssf-ingame-01003",
 			"version": 2,
 			"title": {
 				"en": "Colorful Sensibility default"
@@ -2371,7 +2371,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tColorful Sensibility\n"
@@ -2398,7 +2398,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01004",
+			"name": "ssf-ingame-01004",
 			"version": 2,
 			"title": {
 				"en": "FIVE TREASURE BOX default"
@@ -2407,7 +2407,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tFIVE TREASURE BOX\n"
@@ -2434,7 +2434,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01005",
+			"name": "ssf-ingame-01005",
 			"version": 2,
 			"title": {
 				"en": "I WILL default"
@@ -2443,7 +2443,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tI WILL\n"
@@ -2470,7 +2470,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01006",
+			"name": "ssf-ingame-01006",
 			"version": 2,
 			"title": {
 				"en": "ZAPPING default"
@@ -2479,7 +2479,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tZAPPING\n"
@@ -2506,7 +2506,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01007",
+			"name": "ssf-ingame-01007",
 			"version": 2,
 			"title": {
 				"en": "Return default"
@@ -2515,7 +2515,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tReturn\n"
@@ -2542,7 +2542,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01008",
+			"name": "ssf-ingame-01008",
 			"version": 2,
 			"title": {
 				"en": "Flower Rock default"
@@ -2551,7 +2551,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tFlower Rock\n"
@@ -2578,7 +2578,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01009",
+			"name": "ssf-ingame-01009",
 			"version": 2,
 			"title": {
 				"en": "THE MOOD default"
@@ -2587,7 +2587,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tTHE MOOD\n"
@@ -2614,7 +2614,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01011",
+			"name": "ssf-ingame-01011",
 			"version": 2,
 			"title": {
 				"en": "WHAT IF default"
@@ -2623,7 +2623,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tWHAT IF\n"
@@ -2650,7 +2650,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01013",
+			"name": "ssf-ingame-01013",
 			"version": 2,
 			"title": {
 				"en": "LOCK UP default"
@@ -2659,7 +2659,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tLOCK UP\n"
@@ -2686,7 +2686,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01016",
+			"name": "ssf-ingame-01016",
 			"version": 2,
 			"title": {
 				"en": "Where's the truth? default"
@@ -2695,7 +2695,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tWhere's the truth?\n"
@@ -2722,7 +2722,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01017",
+			"name": "ssf-ingame-01017",
 			"version": 2,
 			"title": {
 				"en": "New Page default"
@@ -2731,7 +2731,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tNew Page\n"
@@ -2758,7 +2758,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-01035",
+			"name": "ssf-ingame-01035",
 			"version": 2,
 			"title": {
 				"en": "Sage default"
@@ -2767,7 +2767,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tSage\n"
@@ -2794,7 +2794,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-08001",
+			"name": "ssf-ingame-08001",
 			"version": 2,
 			"title": {
 				"en": "DO n DO default"
@@ -2803,7 +2803,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tDO n DO\n"
@@ -2830,7 +2830,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-08003",
+			"name": "ssf-ingame-08003",
 			"version": 2,
 			"title": {
 				"en": "FM302 default"
@@ -2839,7 +2839,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tFM302\n"
@@ -2866,7 +2866,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-08005",
+			"name": "ssf-ingame-08005",
 			"version": 2,
 			"title": {
 				"en": "Still love you default"
@@ -2875,7 +2875,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tStill love you\n"

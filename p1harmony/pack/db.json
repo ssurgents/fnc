@@ -11,7 +11,7 @@
 	},
 	"levels": [
 		{
-			"name": "ssp-hard-11001",
+			"name": "ssf-hard-11001",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -21,10 +21,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\tSIREN\nDuration:\t1:26.45\nBPM:\t\t93\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t518\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\tSIREN\nDuration:\t1:26.45\nBPM:\t\t93\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t518\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -32,7 +32,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11001"
+				"item": "ssf-ingame-11001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -62,7 +62,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11002",
+			"name": "ssf-hard-11002",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -72,10 +72,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\t이거지 (That’s It)\nDuration:\t1:18.43\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t513\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\t이거지 (That’s It)\nDuration:\t1:18.43\nBPM:\t\t127\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t513\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -83,7 +83,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11001"
+				"item": "ssf-ingame-11001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -113,7 +113,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11003",
+			"name": "ssf-hard-11003",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -123,10 +123,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\t네모네이드 (Nemonade)\nDuration:\t1:29.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t492\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\t네모네이드 (Nemonade)\nDuration:\t1:29.34\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t492\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -134,7 +134,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11001"
+				"item": "ssf-ingame-11001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -164,7 +164,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11004",
+			"name": "ssf-hard-11004",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -174,10 +174,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\tButterfly\nDuration:\t1:32.81\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t481\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\tButterfly\nDuration:\t1:32.81\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t481\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -185,7 +185,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11001"
+				"item": "ssf-ingame-11001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -215,7 +215,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11005",
+			"name": "ssf-hard-11005",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -225,10 +225,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\t겁나니 (Scared)\nDuration:\t1:18.06\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t446\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\t겁나니 (Scared)\nDuration:\t1:18.06\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t446\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -236,7 +236,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11005"
+				"item": "ssf-ingame-11005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -266,7 +266,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11006",
+			"name": "ssf-hard-11006",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -276,10 +276,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\tIf You Call Me\nDuration:\t1:37.50\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t533\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\tIf You Call Me\nDuration:\t1:37.50\nBPM:\t\t112\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t533\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -287,7 +287,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11005"
+				"item": "ssf-ingame-11005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -317,7 +317,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11007",
+			"name": "ssf-hard-11007",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -327,10 +327,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\t겁나니 (Scared) [Verse 2]\nDuration:\t1:32.04\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t484\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\t겁나니 (Scared) [Verse 2]\nDuration:\t1:32.04\nBPM:\t\t103\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t484\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -338,7 +338,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11005"
+				"item": "ssf-ingame-11005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -368,7 +368,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11008",
+			"name": "ssf-hard-11008",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -378,10 +378,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\tAYAYA\nDuration:\t1:20.31\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t457\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\tAYAYA\nDuration:\t1:20.31\nBPM:\t\t130\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t457\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -389,7 +389,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11005"
+				"item": "ssf-ingame-11005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -419,7 +419,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11009",
+			"name": "ssf-hard-11009",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -429,10 +429,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\t끝장내 (End It)\nDuration:\t1:32.42\nBPM:\t\t87\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t493\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\t끝장내 (End It)\nDuration:\t1:32.42\nBPM:\t\t87\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t493\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -440,7 +440,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11005"
+				"item": "ssf-ingame-11005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -470,7 +470,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11010",
+			"name": "ssf-hard-11010",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -480,10 +480,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\t틀 (Breakthrough) (Full Version)\nTitle:\t\t\t틀 (Breakthrough) (Full Version)\nDuration:\t1:32.93\nBPM:\t\t164\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t545\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\t틀 (Breakthrough) (Full Version)\nTitle:\t\t\t틀 (Breakthrough) (Full Version)\nDuration:\t1:32.93\nBPM:\t\t164\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t545\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -491,7 +491,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11010"
+				"item": "ssf-ingame-11010"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -521,7 +521,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11011",
+			"name": "ssf-hard-11011",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -531,10 +531,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\tSIREN [Verse 2]\nDuration:\t1:34.20\nBPM:\t\t93\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t575\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\tSIREN [Verse 2]\nDuration:\t1:34.20\nBPM:\t\t93\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t575\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -542,7 +542,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11001"
+				"item": "ssf-ingame-11001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -572,7 +572,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11012",
+			"name": "ssf-hard-11012",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -582,10 +582,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\t네모네이드 (Nemonade) [Verse 2]\nDuration:\t1:24.00\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t446\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\t네모네이드 (Nemonade) [Verse 2]\nDuration:\t1:24.00\nBPM:\t\t90\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t446\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -593,7 +593,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11001"
+				"item": "ssf-ingame-11001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -623,7 +623,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11013",
+			"name": "ssf-hard-11013",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -633,10 +633,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\tReset\nDuration:\t1:39.75\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t598\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : BREAK OUT\nTitle:\t\t\tReset\nDuration:\t1:39.75\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t598\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -644,7 +644,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11005"
+				"item": "ssf-ingame-11005"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -674,7 +674,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11014",
+			"name": "ssf-hard-11014",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -684,10 +684,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\tButterfly [Verse 2]\nDuration:\t1:23.44\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t415\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : STAND OUT\nTitle:\t\t\tButterfly [Verse 2]\nDuration:\t1:23.44\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t415\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -695,7 +695,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11001"
+				"item": "ssf-ingame-11001"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -725,7 +725,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11015",
+			"name": "ssf-hard-11015",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -735,10 +735,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tDo It Like This\nDuration:\t1:28.74\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t591\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tDo It Like This\nDuration:\t1:28.74\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t591\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -746,7 +746,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11015"
+				"item": "ssf-ingame-11015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -776,7 +776,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11016",
+			"name": "ssf-hard-11016",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -786,10 +786,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tFollow Me\nDuration:\t1:32.81\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t606\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tFollow Me\nDuration:\t1:32.81\nBPM:\t\t128\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t606\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -797,7 +797,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11015"
+				"item": "ssf-ingame-11015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -827,7 +827,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11017",
+			"name": "ssf-hard-11017",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -837,10 +837,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tPeacemaker\nDuration:\t1:30.74\nBPM:\t\t162\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t466\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tPeacemaker\nDuration:\t1:30.74\nBPM:\t\t162\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t466\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -848,7 +848,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11015"
+				"item": "ssf-ingame-11015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -878,7 +878,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11018",
+			"name": "ssf-hard-11018",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -888,10 +888,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\t틀 (Breakthrough) (Full Version)\nTitle:\t\t\t틀 (Breakthrough) (Full Version) [Verse 2]\nDuration:\t1:34.39\nBPM:\t\t164\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t548\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\t틀 (Breakthrough) (Full Version)\nTitle:\t\t\t틀 (Breakthrough) (Full Version) [Verse 2]\nDuration:\t1:34.39\nBPM:\t\t164\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t548\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -899,7 +899,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11010"
+				"item": "ssf-ingame-11010"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -929,7 +929,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11019",
+			"name": "ssf-hard-11019",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -939,10 +939,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tBop\nDuration:\t1:33.19\nBPM:\t\t94\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t488\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tBop\nDuration:\t1:33.19\nBPM:\t\t94\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t488\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -950,7 +950,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11015"
+				"item": "ssf-ingame-11015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -980,7 +980,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11020",
+			"name": "ssf-hard-11020",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -990,10 +990,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tThat'$ Money\nDuration:\t1:25.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t546\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tThat'$ Money\nDuration:\t1:25.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t546\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1001,7 +1001,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11015"
+				"item": "ssf-ingame-11015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1031,7 +1031,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11021",
+			"name": "ssf-hard-11021",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1041,10 +1041,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tDo It Like This [Verse 2]\nDuration:\t1:28.74\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t559\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tDo It Like This [Verse 2]\nDuration:\t1:28.74\nBPM:\t\t95\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t559\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1052,7 +1052,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11015"
+				"item": "ssf-ingame-11015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1082,7 +1082,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11022",
+			"name": "ssf-hard-11022",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1092,10 +1092,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tThat’$ Money [Verse 2]\nDuration:\t1:29.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t604\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tThat’$ Money [Verse 2]\nDuration:\t1:29.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t604\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1103,7 +1103,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11015"
+				"item": "ssf-ingame-11015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1133,7 +1133,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11023",
+			"name": "ssf-hard-11023",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1143,10 +1143,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : SET IN\nTitle:\t\t\tBack Down\nDuration:\t1:18.00\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t555\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : SET IN\nTitle:\t\t\tBack Down\nDuration:\t1:18.00\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t555\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1154,7 +1154,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11023"
+				"item": "ssf-ingame-11023"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1184,7 +1184,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11024",
+			"name": "ssf-hard-11024",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1194,10 +1194,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : SET IN\nTitle:\t\t\tBack Down [Verse 2]\nDuration:\t1:34.80\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t682\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : SET IN\nTitle:\t\t\tBack Down [Verse 2]\nDuration:\t1:34.80\nBPM:\t\t100\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t682\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1205,7 +1205,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11023"
+				"item": "ssf-ingame-11023"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1235,7 +1235,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11025",
+			"name": "ssf-hard-11025",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1245,10 +1245,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : SET IN\nTitle:\t\t\t배낭여행 (Better Together)\nDuration:\t1:27.91\nBPM:\t\t86\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t447\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : SET IN\nTitle:\t\t\t배낭여행 (Better Together)\nDuration:\t1:27.91\nBPM:\t\t86\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t447\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1256,7 +1256,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11023"
+				"item": "ssf-ingame-11023"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1286,7 +1286,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11026",
+			"name": "ssf-hard-11026",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1296,10 +1296,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : SET IN\nTitle:\t\t\tOne And Only\nDuration:\t1:26.82\nBPM:\t\t170\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t689\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : SET IN\nTitle:\t\t\tOne And Only\nDuration:\t1:26.82\nBPM:\t\t170\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t689\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1307,7 +1307,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11023"
+				"item": "ssf-ingame-11023"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1337,7 +1337,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11027",
+			"name": "ssf-hard-11027",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1347,10 +1347,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : ZERO IN\nTitle:\t\t\tDifferent song for me\nDuration:\t1:32.25\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t474\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : ZERO IN\nTitle:\t\t\tDifferent song for me\nDuration:\t1:32.25\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t474\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1358,7 +1358,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11027"
+				"item": "ssf-ingame-11027"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1388,7 +1388,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11028",
+			"name": "ssf-hard-11028",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1398,10 +1398,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : SET IN\nTitle:\t\t\t배낭여행 (Better Together) [Verse 2]\nDuration:\t1:32.10\nBPM:\t\t86\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t450\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : SET IN\nTitle:\t\t\t배낭여행 (Better Together) [Verse 2]\nDuration:\t1:32.10\nBPM:\t\t86\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t450\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1409,7 +1409,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11023"
+				"item": "ssf-ingame-11023"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1439,7 +1439,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11029",
+			"name": "ssf-hard-11029",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1449,10 +1449,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : ALL IN\nTitle:\t\t\tMore Than Words\nDuration:\t1:23.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t524\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : ALL IN\nTitle:\t\t\tMore Than Words\nDuration:\t1:23.00\nBPM:\t\t120\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t524\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1460,7 +1460,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11029"
+				"item": "ssf-ingame-11029"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1490,7 +1490,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11030",
+			"name": "ssf-hard-11030",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1500,10 +1500,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : ALL IN\nTitle:\t\t\tI Am You\nDuration:\t1:47.21\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t471\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : ALL IN\nTitle:\t\t\tI Am You\nDuration:\t1:47.21\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t471\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1511,7 +1511,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11029"
+				"item": "ssf-ingame-11029"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1541,7 +1541,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11031",
+			"name": "ssf-hard-11031",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1551,10 +1551,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : ALL IN\nTitle:\t\t\tI Am You [Verse 2]\nDuration:\t1:35.41\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t478\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tHARMONY : ALL IN\nTitle:\t\t\tI Am You [Verse 2]\nDuration:\t1:35.41\nBPM:\t\t122\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t478\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1562,7 +1562,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11029"
+				"item": "ssf-ingame-11029"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1592,7 +1592,7 @@
 			}
 		},
 		{
-			"name": "ssp-hard-11032",
+			"name": "ssf-hard-11032",
 			"version": 1,
 			"rating": 0,
 			"title": {
@@ -1602,10 +1602,10 @@
 				"en": "P1Harmony"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
-				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tBefore The Dawn\nDuration:\t1:39.75\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar Pledis\nMode:\thard\nNotes:\t614\n"
+				"en": "\n### Music ###\nArtist:\t\tP1Harmony\nAlbum:\t\tDISHARMONY : FIND OUT\nTitle:\t\t\tBefore The Dawn\nDuration:\t1:39.75\nBPM:\t\t160\n\n### Beatmap/Chart ###\nAuthor:\tSuperStar FNC\nMode:\thard\nNotes:\t614\n"
 			},
 			"engine": "ssurgents",
 			"useSkin": {
@@ -1613,7 +1613,7 @@
 			},
 			"useBackground": {
 				"useDefault": false,
-				"item": "ssp-ingame-11015"
+				"item": "ssf-ingame-11015"
 			},
 			"useEffect": {
 				"useDefault": true
@@ -1678,7 +1678,7 @@
 	],
 	"backgrounds": [
 		{
-			"name": "ssp-ingame-11001",
+			"name": "ssf-ingame-11001",
 			"version": 2,
 			"title": {
 				"en": "DISHARMONY : STAND OUT default"
@@ -1687,7 +1687,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tDISHARMONY : STAND OUT\n"
@@ -1714,7 +1714,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-11005",
+			"name": "ssf-ingame-11005",
 			"version": 2,
 			"title": {
 				"en": "DISHARMONY : BREAK OUT default"
@@ -1723,7 +1723,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tDISHARMONY : BREAK OUT\n"
@@ -1750,7 +1750,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-11010",
+			"name": "ssf-ingame-11010",
 			"version": 2,
 			"title": {
 				"en": "틀 (Breakthrough) (Full Version) default"
@@ -1759,7 +1759,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\t틀 (Breakthrough) (Full Version)\n"
@@ -1786,7 +1786,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-11015",
+			"name": "ssf-ingame-11015",
 			"version": 2,
 			"title": {
 				"en": "DISHARMONY : FIND OUT default"
@@ -1795,7 +1795,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tDISHARMONY : FIND OUT\n"
@@ -1822,7 +1822,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-11023",
+			"name": "ssf-ingame-11023",
 			"version": 2,
 			"title": {
 				"en": "HARMONY : SET IN default"
@@ -1831,7 +1831,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tHARMONY : SET IN\n"
@@ -1858,7 +1858,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-11027",
+			"name": "ssf-ingame-11027",
 			"version": 2,
 			"title": {
 				"en": "HARMONY : ZERO IN default"
@@ -1867,7 +1867,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tHARMONY : ZERO IN\n"
@@ -1894,7 +1894,7 @@
 			}
 		},
 		{
-			"name": "ssp-ingame-11029",
+			"name": "ssf-ingame-11029",
 			"version": 2,
 			"title": {
 				"en": "HARMONY : ALL IN default"
@@ -1903,7 +1903,7 @@
 				"en": "In-game background"
 			},
 			"author": {
-				"en": "SuperStar Pledis"
+				"en": "SuperStar FNC"
 			},
 			"description": {
 				"en": "\nAlbum:\tHARMONY : ALL IN\n"
